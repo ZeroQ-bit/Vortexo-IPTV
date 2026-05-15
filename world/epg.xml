@@ -17,36 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260515203738 +0000" stop="20260515211719 +0000" channel="mjh-redbull-tv">
-    <title lang="en">More Than Machine</title>
-    <sub-title lang="en">Resilience</sub-title>
-    <desc lang="en">Can Latvian superstar Mārtiņš Sesks bounce back from his lost podium in 2024 to prove he belongs at rally sport's highest level?</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:c7cc0e54-a96b-48e6-bb4b-64ed56bb9ad8/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/more-than-machine-s2-e4</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:591e97e4-cdda-4cd2-a8d1-1530923d6954</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2026-03-24 08:00:04</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:c7cc0e54-a96b-48e6-bb4b-64ed56bb9ad8</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Mārtiņš Sesks fights to prove his speed and claim his permanent spot in the World Rally Championship.</series-desc>
-  </programme>
-  <programme start="20260515211719 +0000" stop="20260515220127 +0000" channel="mjh-redbull-tv">
-    <title lang="en">More Than Machine</title>
-    <sub-title lang="en">Cause and effect</sub-title>
-    <desc lang="en">Reigning champ Kalle Rovanperä fights a defiant car, while Takamoto Katsuta battles to save his career. Tension explodes when young challenger Oliver Solberg is given an opportunity to prove himself.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:c7cc0e54-a96b-48e6-bb4b-64ed56bb9ad8/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/more-than-machine-s2-e5</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:e5a9b860-61b6-4b45-b9d0-26e01073fe7c</episode-num>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="original-air-date">2026-03-03 03:36:41</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:c7cc0e54-a96b-48e6-bb4b-64ed56bb9ad8</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The WRC season enters the 'summer of speed' and a new contender emerges: Oliver Solberg.</series-desc>
-  </programme>
   <programme start="20260515220127 +0000" stop="20260515224214 +0000" channel="mjh-redbull-tv">
     <title lang="en">More Than Machine</title>
     <sub-title lang="en">Let the games begin</sub-title>
@@ -91,42 +61,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</series-desc>
-  </programme>
-  <programme start="20260515210000 +0000" stop="20260515220000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1140890647</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0308c9e8-488e-4c9f-9eec-fdb609facf98</episode-num>
-    <episode-num system="original-air-date">2026-05-16 09:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20260515220000 +0000" stop="20260515230000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
@@ -10812,23 +10746,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-dw-news" start="20260515210200 +0000" stop="20260515211500 +0000">
-    <title>DW</title>
-    <sub-title>News Focus</sub-title>
-    <desc>bitte eingeben</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260515211500 +0000" stop="20260515220000 +0000">
-    <title>DocFilm</title>
-    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260515220000 +0000" stop="20260515220200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
   <programme channel="mjh-dw-news" start="20260515220200 +0000" stop="20260515223000 +0000">
     <title>The Day</title>
     <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
@@ -10915,5 +10832,22 @@ Each half-hour programme features one investigative documentaries on an issue re
     <title>DocFilm</title>
     <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516030000 +0000" stop="20260516030200 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516030200 +0000" stop="20260516031500 +0000">
+    <title>DW</title>
+    <sub-title>News Focus</sub-title>
+    <desc>bitte eingeben</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516031500 +0000" stop="20260516033000 +0000">
+    <title>Travel</title>
+    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
   </programme>
 </tv>
