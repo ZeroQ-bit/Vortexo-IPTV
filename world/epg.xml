@@ -17,38 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260516060000 +0000" stop="20260516062809 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Uncharted</title>
-    <sub-title lang="en">Man overboard: Jimmy Spithill’s shocking exit</sub-title>
-    <desc lang="en">In 2013, Jimmy Spithill led a historic sporting comeback at the America’s Cup. A decade later, he brings that same fire to SailGP – a high-octane, tech-driven, short-course racing sailing league.</desc>
-    <category lang="en">Sailing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:2f842bca-71ea-4fb8-8e20-6cf7c5468474/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.tv/en_INT/page/rrn:content:episode-videos:9b0ea6b4-fad5-4071-93e0-8a5710fadcd3/uncharted-s1-e1</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:9b0ea6b4-fad5-4071-93e0-8a5710fadcd3</episode-num>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-01-10 13:01:25</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:2f842bca-71ea-4fb8-8e20-6cf7c5468474</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Australian Jimmy Spithill transforms the US SailGP Team into serious contenders only to be cut by new owners.</series-desc>
-  </programme>
-  <programme start="20260516062809 +0000" stop="20260516065838 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Uncharted</title>
-    <sub-title lang="en">Blood in the water: Jimmy Spithill’s new team</sub-title>
-    <desc lang="en">In the wake of his dismissal from the US team, Jimmy Spithill becomes CEO of newly formed Red Bull Italy SailGP Team. The stage is set for high-stakes rivalry: Spithill vs the team that let him go.</desc>
-    <category lang="en">Sailing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:2f842bca-71ea-4fb8-8e20-6cf7c5468474/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.tv/en_INT/page/rrn:content:episode-videos:7e716f73-0761-4a18-97f8-51c3ad5bd589/uncharted-s1-e2</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:7e716f73-0761-4a18-97f8-51c3ad5bd589</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-01-10 13:30:11</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:2f842bca-71ea-4fb8-8e20-6cf7c5468474</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Jimmy Spithill leads the newly formed Red Bull Italy SailGP Team into intense racing in Dubai.</series-desc>
-  </programme>
   <programme start="20260516065838 +0000" stop="20260516072254 +0000" channel="mjh-redbull-tv">
     <title lang="en">Uncharted</title>
     <sub-title lang="en">The showdown: team rivalries intensify</sub-title>
@@ -188,75 +156,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Thousands of frenzied fans swarmed to Mumbai, India, to watch brave soapbox racers compete all day and night.</series-desc>
-  </programme>
-  <programme start="20260516060000 +0000" stop="20260516063000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1140890662</episode-num>
-    <episode-num system="freeviewnz.tv">episode/c6764660-d307-478f-b4f8-28832ad64be4</episode-num>
-    <episode-num system="original-air-date">2026-05-16 18:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260516063000 +0000" stop="20260516070000 +0000" channel="mjh-al-jazeera">
-    <title>Counting the Cost</title>
-    <sub-title>Counting the Cost</sub-title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Economics, Social Advisory</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/3867D6B0-2A5A-4216-83B6FD8D9C5AF06F.jpg"/>
-    <episode-num system="dd_progid">58142806</episode-num>
-    <episode-num system="freeviewnz.tv">episode/554c8488-8d80-487a-89c1-8ea38fca1596</episode-num>
-    <episode-num system="dd_seriesid">15143844</episode-num>
-    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
-    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
-    <episode-num system="original-air-date">2026-05-16 18:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc418570455</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260516070000 +0000" stop="20260516080000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
@@ -10395,28 +10294,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-dw-news" start="20260516060200 +0000" stop="20260516061500 +0000">
-    <title>DW</title>
-    <sub-title>News Focus</sub-title>
-    <desc>bitte eingeben</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260516061500 +0000" stop="20260516063000 +0000">
-    <title>Travel</title>
-    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260516063000 +0000" stop="20260516070000 +0000">
-    <title>REV</title>
-    <desc>New thinking and technology are revolutionizing our cars, our cities, our way of life. Rev doesn't just want to know how fast we get from A to B, but how we get there as well.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887073_0_20241126T122304743Z_29_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260516070000 +0000" stop="20260516070200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
   <programme channel="mjh-dw-news" start="20260516070200 +0000" stop="20260516071500 +0000">
     <title>DW</title>
     <sub-title>News Focus</sub-title>
@@ -10497,5 +10374,17 @@ Each half-hour programme features one investigative documentaries on an issue re
     <title>DocFilm</title>
     <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516120000 +0000" stop="20260516120200 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516120200 +0000" stop="20260516121500 +0000">
+    <title>DW</title>
+    <sub-title>News Focus</sub-title>
+    <desc>Our deep dive format explains the stories that matter – with clarity, context and journalistic rigor.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
   </programme>
 </tv>
