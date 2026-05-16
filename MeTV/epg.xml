@@ -3,125 +3,6 @@
     <display-name>MeTV</display-name>
     <icon src="https://new.mjh.nz/.images/metv.png"/>
   </channel>
-  <programme channel="metv" start="20260515170000 +0000" stop="20260515180000 +0000">
-    <title>Gunsmoke</title>
-    <sub-title>Lobo</sub-title>
-    <episode-num system="onscreen">S14E12</episode-num>
-    <desc>Mountain man Luke Brazo joins Matt in a hunt for a vicious wolf terrorizing the area.</desc>
-  </programme>
-  <programme channel="metv" start="20260515180000 +0000" stop="20260515190000 +0000">
-    <title>Bonanza</title>
-    <sub-title>The Dark Past</sub-title>
-    <episode-num system="onscreen">S05E31</episode-num>
-    <desc>The men of the Ponderosa cannot understand why bounty hunter Dev Farnum (Dennis Hopper) is so unfriendly and secretive.</desc>
-  </programme>
-  <programme channel="metv" start="20260515190000 +0000" stop="20260515193000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>The Jailbird</sub-title>
-    <episode-num system="onscreen">S02E33</episode-num>
-    <desc>When Lucas hires an ex-con as a ranch hand, the man is the first one under suspicion when a robbery and murder occur in the area.</desc>
-  </programme>
-  <programme channel="metv" start="20260515193000 +0000" stop="20260515200000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Meeting At Midnight</sub-title>
-    <episode-num system="onscreen">S02E34</episode-num>
-    <desc>Lucas helps his former Army captain, now an undercover federal agent, infiltrate a gang of bank robbers.</desc>
-  </programme>
-  <programme channel="metv" start="20260515200000 +0000" stop="20260515210000 +0000">
-    <title>Wagon Train</title>
-    <sub-title>The Alexander Portlass Story</sub-title>
-    <episode-num system="onscreen">S03E23</episode-num>
-    <desc>Kidnapped, Flint is forced to scout and find a lost Aztec treasure. As some of the men were previously thrown off the wagon train, their unfriendliness is certain unless he can help them find the lost treasure of Montezuma.</desc>
-  </programme>
-  <programme channel="metv" start="20260515210000 +0000" stop="20260515220000 +0000">
-    <title>Emergency!</title>
-    <sub-title>Show Biz</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>A photo shoot at the station gets John excited. A country doctor helps Roy and John when they can't reach Rampart on a call. The paramedics rescue a man drowning in a swimming pool and two stuntmen trapped on a waterfall at a movie studio.</desc>
-  </programme>
-  <programme channel="metv" start="20260515220000 +0000" stop="20260515223000 +0000">
-    <title>Hogan's Heroes</title>
-    <sub-title>Lady Chitterly's Lover: Part 2</sub-title>
-    <episode-num system="onscreen">S06E05</episode-num>
-    <desc>After Hogan becomes convinced that Crittendon can't fool Hitler, things get complicated when Chitterly escapes.</desc>
-  </programme>
-  <programme channel="metv" start="20260515223000 +0000" stop="20260515230000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>38 Across</sub-title>
-    <episode-num system="onscreen">S05E15</episode-num>
-    <desc>Befuddled by a crossword puzzle, Hawkeye persuades his old friend, Tippy Brooks, a whiz at puzzles, to come to camp. Tippy arrives with his commanding officer, Admiral Prescot, thinking it's a medical emergency.</desc>
-  </programme>
-  <programme channel="metv" start="20260515230000 +0000" stop="20260515233000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>Ping Pong</sub-title>
-    <episode-num system="onscreen">S05E16</episode-num>
-    <desc>Lieutenant Colonel Harold Beckett lies wounded in post-op waiting to get back to the front for five more days of combat duty to get his promotion. Meanwhile, Cho Lin, the Ping Pong champ, is engaged to Soony. He leaves to get her a ring, when the South Korean army conscripts him. He arrives at the 4077th as a wounded soldier, and after being patched up he is married at the camp.</desc>
-  </programme>
-  <programme channel="metv" start="20260515233000 +0000" stop="20260516000000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>End Run</sub-title>
-    <episode-num system="onscreen">S05E17</episode-num>
-    <desc>Billy Tyler, a young black sergeant, is brought into camp with a bullet wound in the leg. He is a football player, and when he discovers that his leg has been amputated, he wants to die. After talks with Radar, Billy agrees that he must live on.</desc>
-  </programme>
-  <programme channel="metv" start="20260516000000 +0000" stop="20260516003000 +0000">
-    <title>The Andy Griffith Show</title>
-    <sub-title>Barney's Physical</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <desc>Barney learns that in order to pass the mandatory physical for the deputy's office, he must weigh more and be taller. Andy and Aunt Bee try to stretch him and fatten him up, until Andy comes up with the solution.</desc>
-  </programme>
-  <programme channel="metv" start="20260516003000 +0000" stop="20260516010000 +0000">
-    <title>The Andy Griffith Show</title>
-    <sub-title>Lawman Barney</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Barney's ability to be a lawman is put to the test with some peddlers and he fails. His confidence is shattered until Andy steps in behind the scenes and warns the peddlers of "Fife the Fierce."</desc>
-  </programme>
-  <programme channel="metv" start="20260516010000 +0000" stop="20260516013000 +0000">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>She's The One</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>Ray sees Robert's date do something really strange.</desc>
-  </programme>
-  <programme channel="metv" start="20260516013000 +0000" stop="20260516020000 +0000">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Marie's Vision</sub-title>
-    <episode-num system="onscreen">S07E10</episode-num>
-    <desc>Debra suggests Marie visit an eye doctor.</desc>
-  </programme>
-  <programme channel="metv" start="20260516020000 +0000" stop="20260516023000 +0000">
-    <title>The Golden Girls</title>
-    <sub-title>All Bets Off</sub-title>
-    <episode-num system="onscreen">S05E24</episode-num>
-    <desc>Dorothy's gambling problem resurfaces after a visit to the race track.</desc>
-  </programme>
-  <programme channel="metv" start="20260516023000 +0000" stop="20260516030000 +0000">
-    <title>The Golden Girls</title>
-    <sub-title>Blanche Delivers</sub-title>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <desc>Blanche's daughter wants to give birth in a birthing center.</desc>
-  </programme>
-  <programme channel="metv" start="20260516030000 +0000" stop="20260516033000 +0000">
-    <title>Carol Burnett and Friends</title>
-    <sub-title>Guests Steve Lawrence, Tim Conway, And Maggie Smith</sub-title>
-    <desc>In The Stake Out, Carol's police stakeout turns into a blind date. Then, in A Visit from Karen, a star-struck Carol badgers an old friend about her experiences as a Hollywood starlet.</desc>
-  </programme>
-  <programme channel="metv" start="20260516033000 +0000" stop="20260516043500 +0000">
-    <title>Perry Mason</title>
-    <sub-title>The Case Of The Angry Dead Man</sub-title>
-    <episode-num system="onscreen">S04E18</episode-num>
-    <desc>Willard Nesbitt faked his drowning death in a boating accident so his wife could collect the double indemnity life insurance money.</desc>
-  </programme>
-  <programme channel="metv" start="20260516043500 +0000" stop="20260516050500 +0000">
-    <title>The Twilight Zone</title>
-    <sub-title>A World Of Difference</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>A businessman discovers that life as he knows it doesn't really exist.</desc>
-  </programme>
-  <programme channel="metv" start="20260516050500 +0000" stop="20260516053500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>The Festive Season</sub-title>
-    <episode-num system="onscreen">S03E31</episode-num>
-    <desc>A man believes that his sister murdered his wife.</desc>
-  </programme>
   <programme channel="metv" start="20260516053500 +0000" stop="20260516060500 +0000">
     <title>Alfred Hitchcock Presents</title>
     <sub-title>Listen, Listen</sub-title>
@@ -1354,5 +1235,211 @@
     <sub-title>Burglary Auto - Courtroom</sub-title>
     <episode-num system="onscreen">S04E09</episode-num>
     <desc>The policeman's role in court is highlighted in this episode.</desc>
+  </programme>
+  <programme channel="metv" start="20260522093000 +0000" stop="20260522100000 +0000">
+    <title>Dragnet</title>
+    <sub-title>Internal Affairs - Parolee</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>Friday and Gannon retrace a 14-year-old investigation to determine whether charges can be brought against a man up for parole.</desc>
+  </programme>
+  <programme channel="metv" start="20260522100000 +0000" stop="20260522103000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 63 -- Baby</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Reed's wife is in the hospital expecting their first child, and Reed soon regrets his decision to report for work as usual. Out on patrol, they encounter a drunken man directing traffic, chase down a robbery suspect, investigate the theft of money from washing machines and become involved in a minor traffic accident that results in a major delay.</desc>
+  </programme>
+  <programme channel="metv" start="20260522103000 +0000" stop="20260522110000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 93 -- Once A Junkie</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>A former convict and informant who Malloy helped give a second chance is accused of assaulting a priest, dealing drugs and stealing a gun after being fired from his dish-washing job at Duke's Longhorn Café. Malloy and Reed set out to determine if his story, which is full of suspicious coincidences, is actually true.</desc>
+  </programme>
+  <programme channel="metv" start="20260522110000 +0000" stop="20260522120000 +0000">
+    <title>Toon In With Me</title>
+    <sub-title>Turning The Tassel</sub-title>
+    <desc>"It's graduation season, so Bill and Toony dig into graduation traditions."</desc>
+  </programme>
+  <programme channel="metv" start="20260522120000 +0000" stop="20260522123000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Ward's Millions</sub-title>
+    <episode-num system="onscreen">S04E16</episode-num>
+    <desc>Wanting Ward to become a millionaire, Beaver buys him a book called "I Became a Millionaire in Twelve Months." Ward thanks him for it but Beaver quickly learns that Ward is just being polite as to spare his feelings.</desc>
+  </programme>
+  <programme channel="metv" start="20260522123000 +0000" stop="20260522130000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Teacher's Daughter</sub-title>
+    <episode-num system="onscreen">S04E15</episode-num>
+    <desc>Wally's latest girlfriend is Julie Foster, who just happens to be the daughter of a Mr. Foster, who teaches English. Meanwhile, at school, a new semester lands Wally in Mr. Foster's class and he quickly finds himself feeling uncomfortable—especially after Eddie tells him that his relationship with Julie will determine his grades.</desc>
+  </programme>
+  <programme channel="metv" start="20260522130000 +0000" stop="20260522140000 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Missing Button</sub-title>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <desc>A man's campaign to prove his estranged wife an unfit mother is interrupted when he's arrested for murder.</desc>
+  </programme>
+  <programme channel="metv" start="20260522140000 +0000" stop="20260522150000 +0000">
+    <title>Matlock</title>
+    <sub-title>The Best Seller  (s4, ep)</sub-title>
+    <desc>When the friend of a famous novelist is found dead, suspicion falls on the husband of the author. While trying to clear the man's name, Julie discovers that not everything is as it seems.</desc>
+  </programme>
+  <programme channel="metv" start="20260522150000 +0000" stop="20260522160000 +0000">
+    <title>Hawaii Five-O</title>
+    <sub-title>The Clock Struck Twelve</sub-title>
+    <episode-num system="onscreen">S05E12</episode-num>
+    <desc>When McGarrett arrests a group of vigilante nationalists, hidden bombs at the courthouse threaten to destabilize the islands.</desc>
+  </programme>
+  <programme channel="metv" start="20260522160000 +0000" stop="20260522170000 +0000">
+    <title>The Waltons</title>
+    <sub-title>The Night Walker</sub-title>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <desc>An unknown person is walking around Walton's Mountain at nights and causing worry</desc>
+  </programme>
+  <programme channel="metv" start="20260522170000 +0000" stop="20260522180000 +0000">
+    <title>Gunsmoke</title>
+    <sub-title>Gold Town</sub-title>
+    <episode-num system="onscreen">S14E18</episode-num>
+    <desc>Two hillbillies attempt to swindle the townspeople of Dodge City by selling them worthless mining claims.</desc>
+  </programme>
+  <programme channel="metv" start="20260522180000 +0000" stop="20260522190000 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Wild One</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>Lafe Jessup doesn't really want to be married, and now he's about to be a father! The horse wrangler finds a fight with Hoss at his reluctance to perform his duties.</desc>
+  </programme>
+  <programme channel="metv" start="20260522190000 +0000" stop="20260522193000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Dead Cold Cash</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>The widow of a bandit killed by Lucas plots a grotesque revenge.</desc>
+  </programme>
+  <programme channel="metv" start="20260522193000 +0000" stop="20260522200000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Schoolmaster</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Mark and his friend become trapped in an old mine.</desc>
+  </programme>
+  <programme channel="metv" start="20260522200000 +0000" stop="20260522210000 +0000">
+    <title>Wagon Train</title>
+    <sub-title>The Countess Baranof Story</sub-title>
+    <episode-num system="onscreen">S03E31</episode-num>
+    <desc>Countess Baranof is desperate to get to Alaska to claim her family fortune, and with no horses she applies her considerable charms on Flint. But she's not the one Flint should worry about, as her bodyguard has a more sinister agenda.</desc>
+  </programme>
+  <programme channel="metv" start="20260522210000 +0000" stop="20260522220000 +0000">
+    <title>Emergency!</title>
+    <sub-title>Trainee</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>A former Vietnam medic is now a paramedic trainee and constantly thinks he knows more than the doctors at Rampart. Roy, John and the trainee interrupt a purse-snatching, rescue a man who fell down a cliff, help a woman overdosed on prescription drugs and save a man with an insulin reaction.</desc>
+  </programme>
+  <programme channel="metv" start="20260522220000 +0000" stop="20260522223000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>It's Dynamite</sub-title>
+    <episode-num system="onscreen">S06E10</episode-num>
+    <desc>A dynamite truck, which Hogan plans on hi-jacking, deviates from its planned route.</desc>
+  </programme>
+  <programme channel="metv" start="20260522223000 +0000" stop="20260522230000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>In Love And War</sub-title>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <desc>Hawkeye falls in love with Kyong Soon, a Korean woman who is caring for her sick mother and orphaned children. But all hope is lost as Kyong takes her possessions and the children to the south after her mother has died.</desc>
+  </programme>
+  <programme channel="metv" start="20260522230000 +0000" stop="20260522233000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Change Day</sub-title>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <desc>Charles plans a scheme to get rich when he discovers that blue scrip is going to be exchanged for red. Hawkeye and B.J. outsmart him, and he is left holding the worthless scrip. Klinger tries to get into West Point so that he can get out of Korea.</desc>
+  </programme>
+  <programme channel="metv" start="20260522233000 +0000" stop="20260523000000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Images</sub-title>
+    <episode-num system="onscreen">S06E09</episode-num>
+    <desc>Radar notices a number of tattoos on one of the wounded, and convinces himself that with a tattoo he will be irresistible to women. Everyone tries to discourage him, and he admits to having received a tattoo that will wash off. Meanwhile, Margaret is frustrated with a new nurse who keeps getting upset at the sight of combat injuries.</desc>
+  </programme>
+  <programme channel="metv" start="20260523000000 +0000" stop="20260523003000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>The Rumor</sub-title>
+    <episode-num system="onscreen">S04E29</episode-num>
+    <desc>When Barney sees Andy kissing Helen in a jewelry store, he gets the idea that they are engaged. So he starts planning an engagement party and gets the whole town involved.</desc>
+  </programme>
+  <programme channel="metv" start="20260523003000 +0000" stop="20260523010000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>The Manicurist</sub-title>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <desc>A beautiful manicurist from the city comes to Floyd's to set up shop. She makes all the wives in town extremely nervous as she manicures their husbands.</desc>
+  </programme>
+  <programme channel="metv" start="20260523010000 +0000" stop="20260523013000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Shower, The</sub-title>
+    <episode-num system="onscreen">S07E21</episode-num>
+    <desc>Debra gives a bridal shower for Amy.</desc>
+  </programme>
+  <programme channel="metv" start="20260523013000 +0000" stop="20260523020000 +0000">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Baggage</sub-title>
+    <episode-num system="onscreen">S07E22</episode-num>
+    <desc>Ray and Debra wind up in a two-week standoff over a suitcase.</desc>
+  </programme>
+  <programme channel="metv" start="20260523020000 +0000" stop="20260523023000 +0000">
+    <title>The Golden Girls</title>
+    <sub-title>Miles To Go</sub-title>
+    <episode-num system="onscreen">S06E15</episode-num>
+    <desc>Miles reveals that he has been in a witness protection program.</desc>
+  </programme>
+  <programme channel="metv" start="20260523023000 +0000" stop="20260523030000 +0000">
+    <title>The Golden Girls</title>
+    <sub-title>Older And Wiser</sub-title>
+    <episode-num system="onscreen">S06E18</episode-num>
+    <desc>Dorothy gets Sophia a job under false pretenses.</desc>
+  </programme>
+  <programme channel="metv" start="20260523030000 +0000" stop="20260523033000 +0000">
+    <title>Carol Burnett and Friends</title>
+    <sub-title>Guests Sammy Davis Jr. And Cher</sub-title>
+    <desc>In The Deputy, Harvey tries to get his old deputy back when a dangerous gang rolls into town. Then, in As the Stomach Turns, Carol is desperate for excitement but can't get her hair styled by the dresser.</desc>
+  </programme>
+  <programme channel="metv" start="20260523033000 +0000" stop="20260523043500 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Torrid Tapestry</sub-title>
+    <episode-num system="onscreen">S04E23</episode-num>
+    <desc>Having served a six-year prison sentence for a fire he didn't start, Claude Demay has devised a plan to expose the real criminal, Leonard Voss, who tried to burn down a warehouse containing a valuable art collection.</desc>
+  </programme>
+  <programme channel="metv" start="20260523043500 +0000" stop="20260523050500 +0000">
+    <title>The Twilight Zone</title>
+    <sub-title>A Nice Place To Visit</sub-title>
+    <episode-num system="onscreen">S01E28</episode-num>
+    <desc>After being shot to death, a gangster finds himself in a place where he gets everything his heart desires.</desc>
+  </programme>
+  <programme channel="metv" start="20260523050500 +0000" stop="20260523053500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>Don't Interrupt</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>A little boy on a train tries desperately to tell someone a secret.</desc>
+  </programme>
+  <programme channel="metv" start="20260523053500 +0000" stop="20260523060500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>The Jokester</sub-title>
+    <desc>"Newspaperman Bradley's habit of playing practical jokes puts morgue attendant Pop Henderson in danger of losing his job."</desc>
+  </programme>
+  <programme channel="metv" start="20260523060500 +0000" stop="20260523070500 +0000">
+    <title>Mannix</title>
+    <sub-title>To Draw The Lightning</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>A police lieutenant is suspended after shooting and killing a known gangster at a police raid. It is suspected that the killing was revenge driven because the same gangster was responsible for the death of the police lieutenant's friend. Mannix sets out to prove that no revenge was at play.</desc>
+  </programme>
+  <programme channel="metv" start="20260523070500 +0000" stop="20260523080500 +0000">
+    <title>Cannon</title>
+    <sub-title>The Island Caper</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>An ex-con is threatened when his safe cracking skills are needed for a theft of 1 million dollars.</desc>
+  </programme>
+  <programme channel="metv" start="20260523080500 +0000" stop="20260523090000 +0000">
+    <title>Barnaby Jones</title>
+    <sub-title>Desperate Pursuit, A</sub-title>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <desc>Betty's testimony in a trial puts herself in danger and gives her attention from an impressed reporter.</desc>
+  </programme>
+  <programme channel="metv" start="20260523090000 +0000" stop="20260523093000 +0000">
+    <title>Petticoat Junction</title>
+    <sub-title>The Fishing Derby</sub-title>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <desc>To boost business at the Shady Rest, Uncle Joe and Sam Drucker promote a fishing contest but delay paying for the prize merchandise.</desc>
   </programme>
 </tv>
