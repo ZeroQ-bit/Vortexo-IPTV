@@ -17,65 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260516040446 +0000" stop="20260516050928 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Emerald Storm</title>
-    <sub-title lang="en">The history of Irish downhill mountain biking</sub-title>
-    <desc lang="en">Across four decades and five generations, watch the evolution of Irish MTB, from casual rides with friends to fierce battles on the world’s biggest stage: the UCI Downhill World Cup.</desc>
-    <category lang="en">Mountain Bike Downhill</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:d64dfe6f-7616-4e0b-8932-65f4d928f004/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/emerald-storm</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:d64dfe6f-7616-4e0b-8932-65f4d928f004</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Documenting the rise of Ireland’s top MTB riders from their grassroots beginnings to the global stage.</series-desc>
-  </programme>
-  <programme start="20260516050928 +0000" stop="20260516053921 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Uncharted</title>
-    <sub-title lang="en">Blood in the water: Jimmy Spithill’s new team</sub-title>
-    <desc lang="en">In the wake of his dismissal from the US team, Jimmy Spithill becomes CEO of newly formed Red Bull Italy SailGP Team. The stage is set for high-stakes rivalry: Spithill vs the team that let him go.</desc>
-    <category lang="en">Sailing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:2f842bca-71ea-4fb8-8e20-6cf7c5468474/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.tv/en_INT/page/rrn:content:episode-videos:7e716f73-0761-4a18-97f8-51c3ad5bd589/uncharted-s1-e2</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:7e716f73-0761-4a18-97f8-51c3ad5bd589</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-01-10 13:30:11</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:2f842bca-71ea-4fb8-8e20-6cf7c5468474</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Jimmy Spithill leads the newly formed Red Bull Italy SailGP Team into intense racing in Dubai.</series-desc>
-  </programme>
-  <programme start="20260516053921 +0000" stop="20260516055039 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Red Bull Soapbox Race</title>
-    <sub-title lang="en">2017's top car designs</sub-title>
-    <desc lang="en">Not every genius and lovingly crafted design translates into a stable soapbox, as 2017's creative but crash-heavy highlights show.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/red-bull-soapbox-race-genius-designs-e4</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:8e83157f-1a62-4fb3-b403-468befe931d1</episode-num>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-    <episode-num system="original-air-date">2023-06-18 04:28:54</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Not every genius design translates into a stable soapbox, as 2017's creative but crash-heavy highlights show.</series-desc>
-  </programme>
-  <programme start="20260516055039 +0000" stop="20260516060000 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Red Bull Soapbox Race</title>
-    <sub-title lang="en">2014's best crashes and smashes</sub-title>
-    <desc lang="en">Want to see the Popemobile take a massive front flip spill? Of course you do, so hit play and enjoy 2014's funniest crashes and smashes.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/red-bull-soapbox-race-craziest-crashes-e1</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:d221a98e-6be1-4f97-b1ed-f452c9993745</episode-num>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-    <episode-num system="original-air-date">2024-04-06 19:53:54</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Want to see the Popemobile take a massive front flip spill? Then hit play on 2014's best crashes.</series-desc>
-  </programme>
   <programme start="20260516060000 +0000" stop="20260516062809 +0000" channel="mjh-redbull-tv">
     <title lang="en">Uncharted</title>
     <sub-title lang="en">Man overboard: Jimmy Spithill’s shocking exit</sub-title>
@@ -247,83 +188,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Thousands of frenzied fans swarmed to Mumbai, India, to watch brave soapbox racers compete all day and night.</series-desc>
-  </programme>
-  <programme start="20260516050000 +0000" stop="20260516053000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1140890660</episode-num>
-    <episode-num system="freeviewnz.tv">episode/71747a19-bd31-42f1-a628-9a3037bf604c</episode-num>
-    <episode-num system="original-air-date">2026-05-16 17:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260516053000 +0000" stop="20260516060000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg"/>
-    <episode-num system="dd_progid">58014565</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0576a40b-9521-4195-8846-e2a084f4e8cc</episode-num>
-    <episode-num system="xmltv_ns">0.1317.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2026-05-16 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc313063015</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
   </programme>
   <programme start="20260516060000 +0000" stop="20260516063000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10531,22 +10395,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-dw-news" start="20260516050200 +0000" stop="20260516053000 +0000">
-    <title>Arts Unveiled</title>
-    <desc>Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887044_0_20241126T122257061Z_120_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260516053000 +0000" stop="20260516060000 +0000">
-    <title>The 77 Percent</title>
-    <desc>77 percent of Africans are younger than 35. These are the people who will shape the continent's future. DW's TV magazine The 77 Percent gives Africa's youth a platform for debate, information and inspiration.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887004_0_20241126T122304738Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260516060000 +0000" stop="20260516060200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
   <programme channel="mjh-dw-news" start="20260516060200 +0000" stop="20260516061500 +0000">
     <title>DW</title>
     <sub-title>News Focus</sub-title>
@@ -10633,5 +10481,21 @@ Each half-hour programme features one investigative documentaries on an issue re
     <title>Shift</title>
     <desc>How is the Internet changing society – in Germany and around the world? The magazine for digital culture, issues and technology, delivered directly from blogs and boardrooms.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886807_0_20241126T122257433Z_74_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516103000 +0000" stop="20260516110000 +0000">
+    <title>Arts Unveiled</title>
+    <desc>Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887044_0_20241126T122257061Z_120_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516110000 +0000" stop="20260516110300 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260516110300 +0000" stop="20260516120000 +0000">
+    <title>DocFilm</title>
+    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
