@@ -210,9 +210,6 @@ https://jmp2.uk/plu-6989b64839dd847194cadcd7.m3u8
 #EXTINF:-1 channel-id="plutotv-677fb078a4af36ad50111032" tvg-id="plutotv-677fb078a4af36ad50111032" tvg-name="Die Sieben-Millionen-Dollar-Frau (Germany)" tvg-logo="https://images.pluto.tv/channels/677fb078a4af36ad50111032/colorLogoPNG.png" group-title="Entertainment" tvg-chno="18",Die Sieben-Millionen-Dollar-Frau (Germany)
 https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
 
-#EXTINF:-1 channel-id="plutotv-69bd2cc70b6c04b3e635ba29" tvg-id="plutotv-69bd2cc70b6c04b3e635ba29" tvg-name="Goku Day (Spain)" tvg-logo="https://images.pluto.tv/channels/69bd2cc70b6c04b3e635ba29/colorLogoPNG_1777475445645.png" group-title="Entertainment" tvg-chno="18",Goku Day (Spain)
-https://jmp2.uk/plu-69bd2cc70b6c04b3e635ba29.m3u8
-
 #EXTINF:-1 channel-id="plutotv-5dcde437229eff00091b6c30" tvg-id="plutotv-5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar (Mexico)" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png" group-title="Entertainment" tvg-chno="18",Pluto TV Cine Estelar (Mexico)
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 
@@ -2484,6 +2481,9 @@ https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 channel-id="plutotv-650adc3198020f000862eed4" tvg-id="plutotv-650adc3198020f000862eed4" tvg-name="Unentdeckt – Mörder unter uns (Germany)" tvg-logo="https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png" group-title="Entertainment" tvg-chno="263",Unentdeckt – Mörder unter uns (Germany)
 https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
 
+#EXTINF:-1 channel-id="roku-5976983fa00953dab911a0ebea932943" tvg-id="roku-5976983fa00953dab911a0ebea932943" tvg-name="DraftKings" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" group-title="Sport" tvg-chno="264",DraftKings
+https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
+
 #EXTINF:-1 channel-id="plutotv-63a1c959d9dd51000825d659" tvg-id="plutotv-63a1c959d9dd51000825d659" tvg-name="Scorpion (Norway)" tvg-logo="https://images.pluto.tv/channels/63a1c959d9dd51000825d659/colorLogoPNG.png" group-title="Series" tvg-chno="264",Scorpion (Norway)
 https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
 
@@ -2501,6 +2501,9 @@ https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
 
 #EXTINF:-1 channel-id="plutotv-62e91384210bec0007ba714c" tvg-id="plutotv-62e91384210bec0007ba714c" tvg-name="The Dick Van Dyke Show (Canada)" tvg-logo="https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png" group-title="Comedy" tvg-chno="265",The Dick Van Dyke Show (Canada)
 https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8
+
+#EXTINF:-1 channel-id="roku-0128b5f756acf1e1c488509fd76b0a61" tvg-id="roku-0128b5f756acf1e1c488509fd76b0a61" tvg-name="X Games TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0128b5f756acf1e1c488509fd76b0a61/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758735344999_X_Games_TV_260x147_White.png" group-title="Sport" tvg-chno="265",X Games TV
+https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
 
 #EXTINF:-1 channel-id="roku-8a55c26c63bdd14653c2b02230b4ac64" tvg-id="roku-8a55c26c63bdd14653c2b02230b4ac64" tvg-name="MSG Sports Zone" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8a55c26c63bdd14653c2b02230b4ac64/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730998042302_MSGSPORTZONE_Image_HUD.png" group-title="Sport" tvg-chno="266",MSG Sports Zone
 https://jmp2.uk/rok-8a55c26c63bdd14653c2b02230b4ac64.m3u8
@@ -2544,11 +2547,23 @@ https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:-1 channel-id="plutotv-693ae65fab5959c036fa6c1e" tvg-id="plutotv-693ae65fab5959c036fa6c1e" tvg-name="House of Lies (Norway)" tvg-logo="https://images.pluto.tv/channels/693ae65fab5959c036fa6c1e/colorLogoPNG_1769415741148.png" group-title="Lifestyle" tvg-chno="272",House of Lies (Norway)
 https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
 
+#EXTINF:-1 channel-id="roku-8d8befc9060e861eb1bdd5b21c0403b3" tvg-id="roku-8d8befc9060e861eb1bdd5b21c0403b3" tvg-name="Lifetime Love &amp; Drama" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d8befc9060e861eb1bdd5b21c0403b3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748881675113_LMLDHUD_logo_efefef_center_aligned_260x147.png" group-title="Comedy" tvg-chno="272",Lifetime Love & Drama
+https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
+
+#EXTINF:-1 channel-id="roku-eb1dbd690001553eacdf32d7b155b933" tvg-id="roku-eb1dbd690001553eacdf32d7b155b933" tvg-name="SPARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eb1dbd690001553eacdf32d7b155b933/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659742235158_Whitt_Hansen_-_SparkTVLogo_HUD_2_v2.png" group-title="Movies" tvg-chno="274",SPARK TV
+https://jmp2.uk/rok-eb1dbd690001553eacdf32d7b155b933.m3u8
+
+#EXTINF:-1 channel-id="roku-be3c81de355c56f89cbf99301735cfd2" tvg-id="roku-be3c81de355c56f89cbf99301735cfd2" tvg-name="My Time Movie Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="Comedy" tvg-chno="275",My Time Movie Network
+https://jmp2.uk/rok-be3c81de355c56f89cbf99301735cfd2.m3u8
+
 #EXTINF:-1 channel-id="plutotv-6875080e3484d607323641f8" tvg-id="plutotv-6875080e3484d607323641f8" tvg-name="Pluto TV Dive Italiane (Italy)" tvg-logo="https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png" group-title="Entertainment" tvg-chno="275",Pluto TV Dive Italiane (Italy)
 https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
 
 #EXTINF:-1 channel-id="roku-d93912b4b21158fd95af2ceb8979c586" tvg-id="roku-d93912b4b21158fd95af2ceb8979c586" tvg-name="Dove" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d93912b4b21158fd95af2ceb8979c586/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738599967209_DoveRefresh_RokuLinear_260X147.png" group-title="Movies" tvg-chno="276",Dove
 https://jmp2.uk/rok-d93912b4b21158fd95af2ceb8979c586.m3u8
+
+#EXTINF:-1 channel-id="roku-77672e0655c5540095b1c492c91c37d3" tvg-id="roku-77672e0655c5540095b1c492c91c37d3" tvg-name="Great American RomComs" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77672e0655c5540095b1c492c91c37d3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1768402132746_Great-ROMCOMS-60x147.png" group-title="Comedy" tvg-chno="277",Great American RomComs
+https://jmp2.uk/rok-77672e0655c5540095b1c492c91c37d3.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5f512365abe1f50007d3ff56" tvg-id="plutotv-5f512365abe1f50007d3ff56" tvg-name="Pluto TV Novelas (Brazil)" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Entertainment" tvg-chno="278",Pluto TV Novelas (Brazil)
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
@@ -3612,9 +3627,6 @@ https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 #EXTINF:-1 channel-id="plutotv-6728d2be529ac9000830dc15" tvg-id="plutotv-6728d2be529ac9000830dc15" tvg-name="NonStop Kung Fu (Denmark)" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" group-title="Entertainment" tvg-chno="405",NonStop Kung Fu (Denmark)
 https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 
-#EXTINF:-1 channel-id="roku-d8b7e94b7edc53918e6afa251822df14" tvg-id="roku-d8b7e94b7edc53918e6afa251822df14" tvg-name="Pocket.watch Game-On" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d8b7e94b7edc53918e6afa251822df14/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1725978776066_pocket.watchGame-On_Info_HUD_260x147.png" group-title="Entertainment" tvg-chno="405",Pocket.watch Game-On
-https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8
-
 #EXTINF:-1 channel-id="plutotv-5bd05b4694d45d266bc951f2" tvg-id="plutotv-5bd05b4694d45d266bc951f2" tvg-name="Unsolved Mysteries (Great Britain)" tvg-logo="https://images.pluto.tv/channels/5bd05b4694d45d266bc951f2/colorLogoPNG.png" group-title="Entertainment" tvg-chno="405",Unsolved Mysteries (Great Britain)
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 
@@ -3911,6 +3923,9 @@ https://jmp2.uk/rok-7b3b6c3d670c5008be3b100fd622fa0d.m3u8
 
 #EXTINF:-1 channel-id="plutotv-662bf39756fc840008f25cb9" tvg-id="plutotv-662bf39756fc840008f25cb9" tvg-name="Sony One Escape Perfecto (Mexico)" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png" group-title="Entertainment" tvg-chno="449",Sony One Escape Perfecto (Mexico)
 https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
+
+#EXTINF:-1 channel-id="plutotv-69eaa34817801c84fca05d94" tvg-id="plutotv-69eaa34817801c84fca05d94" tvg-name="Always Funny (USA)" tvg-logo="https://images.pluto.tv/channels/69eaa34817801c84fca05d94/colorLogoPNG_1777656411046.png" group-title="Comedy" tvg-chno="450",Always Funny (USA)
+https://jmp2.uk/plu-69eaa34817801c84fca05d94.m3u8
 
 #EXTINF:-1 channel-id="plutotv-622f498d119b4c000719c0b7" tvg-id="plutotv-622f498d119b4c000719c0b7" tvg-name="Judge Judy (Great Britain)" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" group-title="Entertainment" tvg-chno="450",Judge Judy (Great Britain)
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
@@ -5669,6 +5684,12 @@ https://jmp2.uk/stvp-KR2000003T6
 
 #EXTINF:-1 channel-id="plutotv-61325c4f982acd000723287e" tvg-id="plutotv-61325c4f982acd000723287e" tvg-name="Classic TV Crime Drama (USA)" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Series" tvg-chno="660",Classic TV Crime Drama (USA)
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+
+#EXTINF:-1 channel-id="roku-390053bfbc6858999cb0d6354b57d938" tvg-id="roku-390053bfbc6858999cb0d6354b57d938" tvg-name="Confess by Nosey" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/390053bfbc6858999cb0d6354b57d938/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1685734780162_Confess-by-NoseyImage-HUD-1_260x147px_1_Tayler_Petrowski.png" group-title="Series" tvg-chno="660",Confess by Nosey
+https://jmp2.uk/rok-390053bfbc6858999cb0d6354b57d938.m3u8
+
+#EXTINF:-1 channel-id="roku-75ff2c061db65f4e812cfbe6b1480752" tvg-id="roku-75ff2c061db65f4e812cfbe6b1480752" tvg-name="Judge Nosey" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/75ff2c061db65f4e812cfbe6b1480752/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680374090969_JudgeNosey_HUD-2_260x147_CenterAligned.png" group-title="Series" tvg-chno="661",Judge Nosey
+https://jmp2.uk/rok-75ff2c061db65f4e812cfbe6b1480752.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6915de3d74601d957afa4592" tvg-id="plutotv-6915de3d74601d957afa4592" tvg-name="The Graham Norton Show (Sweden)" tvg-logo="https://images.pluto.tv/channels/6915de3d74601d957afa4592/colorLogoPNG_1763053854289.png" group-title="Series" tvg-chno="661",The Graham Norton Show (Sweden)
 https://jmp2.uk/plu-6915de3d74601d957afa4592.m3u8
@@ -16437,6 +16458,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-68e0388d8bbd79d66c631ab4.m3u8
 #EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-name="Prisoner: Cell Block H" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="AU Freeview",Prisoner: Cell Block H
 https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
 
+#EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="mjh-10-projectrunway" tvg-name="Project Runway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="AU Freeview",Project Runway
+https://i.mjh.nz/.r/10-projectrunway.m3u8
+
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-63628eb88e4b18ca22f897dc" tvg-id="plex-697140a85d851f5e69414688-63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" group-title="Entertainment",PursuitUP
 https://jmp2.uk/plex-697140a85d851f5e69414688-63628eb88e4b18ca22f897dc.m3u8
 
@@ -16841,6 +16865,9 @@ https://i.mjh.nz/.r/10-world-of-survivor.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-652875586425fdb1f32d2169" tvg-id="plex-697140a85d851f5e69414688-652875586425fdb1f32d2169" tvg-name="World Surf League 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png" group-title="24/7",World Surf League 24/7
 https://jmp2.uk/plex-697140a85d851f5e69414688-652875586425fdb1f32d2169.m3u8
+
+#EXTINF:-1 channel-id="mjh-misc515-fast" tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="24/7",WSL Championship Tour
+https://i.mjh.nz/.r/misc515-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-621670feab2095ca85353ad4" tvg-id="plex-697140a85d851f5e69414688-621670feab2095ca85353ad4" tvg-name="XFC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png" group-title="Entertainment",XFC TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-621670feab2095ca85353ad4.m3u8
