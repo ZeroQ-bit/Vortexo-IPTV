@@ -14,6 +14,8 @@ import gzip
 import html
 import json
 import re
+import copy
+import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
@@ -22,6 +24,10 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "merged" / "au"
+UNCOMPRESSED_EPG_OUTPUTS = [
+    OUTPUT / "epg.xml",
+    OUTPUT / "epg-expanded.xml",
+]
 
 PRIMARY_SOURCES = [
     ("au/all", ROOT / "au" / "all" / "tv.json.gz"),
@@ -65,6 +71,17 @@ PUBLIC_PROVIDER_SOURCES = [
         "skip_drm": True,
     },
 ]
+
+XMLTV_PROGRAM_SOURCES = {
+    "au/all": [ROOT / "au" / "all" / "epg.xml.gz"],
+    "world": [ROOT / "world" / "epg.xml.gz"],
+    "all": [ROOT / "all" / "epg.xml.gz"],
+    "Plex": [ROOT / "Plex" / "au.xml.gz"],
+    "PlutoTV": [ROOT / "PlutoTV" / "all.xml.gz"],
+    "Roku": [ROOT / "Roku" / "all.xml.gz"],
+    "SamsungTVPlus": [ROOT / "SamsungTVPlus" / "all.xml.gz"],
+    "PBSKids": [ROOT / "PBS" / "all.xml.gz"],
+}
 
 EXCLUDED_SOURCE_FILES = [
     ROOT / "nz" / "tv.json.gz",
@@ -207,8 +224,9 @@ def load_json_gz(path: Path) -> dict[str, Any]:
 
 
 def write_gzip(path: Path, text: str) -> None:
-    with gzip.open(path, "wt", encoding="utf-8", compresslevel=9) as handle:
-        handle.write(text)
+    with path.open("wb") as handle:
+        with gzip.GzipFile(fileobj=handle, mode="wb", compresslevel=9, mtime=0) as gzip_file:
+            gzip_file.write(text.encode("utf-8"))
 
 
 def detect_region(channel_id: str) -> str:
@@ -608,7 +626,97 @@ def write_xmltv_programs(lines: list[str], channel_id: str, programs: list[Any])
         lines.append("  </programme>")
 
 
-def build_xmltv(buckets: dict[str, list[ChannelVariant]], expanded: bool) -> str:
+def load_xmltv_program_index(path: Path) -> dict[str, list[ET.Element]]:
+    if not path.exists():
+        return {}
+
+    with gzip.open(path, "rb") as handle:
+        root = ET.parse(handle).getroot()
+
+    index: dict[str, list[ET.Element]] = {}
+    for program in root.findall("programme"):
+        channel = str(program.get("channel") or "")
+        if channel:
+            index.setdefault(channel.lower(), []).append(program)
+    return index
+
+
+def load_rich_program_indexes() -> dict[str, dict[str, list[ET.Element]]]:
+    indexes: dict[str, dict[str, list[ET.Element]]] = {}
+    for source, paths in XMLTV_PROGRAM_SOURCES.items():
+        source_index: dict[str, list[ET.Element]] = {}
+        for path in paths:
+            for channel_id, programs in load_xmltv_program_index(path).items():
+                source_index.setdefault(channel_id, []).extend(programs)
+        indexes[source] = source_index
+    return indexes
+
+
+def rich_program_keys(variant: ChannelVariant) -> list[str]:
+    keys: list[str] = []
+    seen: set[str] = set()
+    prefix = f"{variant.source.lower()}-"
+
+    def add(value: Any) -> None:
+        if not value:
+            return
+        text = str(value)
+        lowered = text.lower()
+        if lowered not in seen:
+            seen.add(lowered)
+            keys.append(lowered)
+
+    for value in [variant.epg_id, variant.channel_id, variant.data.get("epg_id")]:
+        add(value)
+        text = str(value or "")
+        if text.lower().startswith(prefix):
+            add(text[len(prefix) :])
+
+    return keys
+
+
+def rich_programs_for(
+    variant: ChannelVariant,
+    rich_program_indexes: dict[str, dict[str, list[ET.Element]]],
+) -> list[ET.Element]:
+    source_index = rich_program_indexes.get(variant.source, {})
+    for key in rich_program_keys(variant):
+        programs = source_index.get(key)
+        if programs:
+            return programs
+    return []
+
+
+def write_rich_xmltv_programs(lines: list[str], channel_id: str, programs: list[ET.Element]) -> None:
+    for program in sorted(programs, key=lambda item: (item.get("start") or "", item.get("stop") or "")):
+        attrs = dict(program.attrib)
+        if not attrs.get("start"):
+            continue
+        attrs["channel"] = channel_id
+        attr_text = " ".join(
+            f'{html.escape(str(key), quote=True)}="{html.escape(str(value), quote=True)}"'
+            for key, value in attrs.items()
+            if value is not None
+        )
+        lines.append(f"  <programme {attr_text}>")
+        for child in list(program):
+            child_copy = copy.deepcopy(child)
+            child_copy.tail = None
+            child_text = ET.tostring(
+                child_copy,
+                encoding="unicode",
+                short_empty_elements=True,
+            ).strip()
+            if child_text:
+                lines.append(f"    {child_text}")
+        lines.append("  </programme>")
+
+
+def build_xmltv(
+    buckets: dict[str, list[ChannelVariant]],
+    expanded: bool,
+    rich_program_indexes: dict[str, dict[str, list[ET.Element]]],
+) -> str:
     generated = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S +0000")
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -631,9 +739,13 @@ def build_xmltv(buckets: dict[str, list[ChannelVariant]], expanded: bool) -> str
         write_xmltv_channel(lines, channel_id, variant, display_name)
 
     for channel_id, variant, _ in channels:
-        programs = variant.data.get("programs")
-        if isinstance(programs, list):
-            write_xmltv_programs(lines, channel_id, programs)
+        rich_programs = rich_programs_for(variant, rich_program_indexes)
+        if rich_programs:
+            write_rich_xmltv_programs(lines, channel_id, rich_programs)
+        else:
+            programs = variant.data.get("programs")
+            if isinstance(programs, list):
+                write_xmltv_programs(lines, channel_id, programs)
 
     lines.append("</tv>")
     return "\n".join(lines) + "\n"
@@ -643,6 +755,9 @@ def main() -> None:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     buckets = collect_channels()
     catalog = build_json_catalog(buckets)
+    rich_program_indexes = load_rich_program_indexes()
+    for path in UNCOMPRESSED_EPG_OUTPUTS:
+        path.unlink(missing_ok=True)
 
     json_text = json.dumps(catalog, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     (OUTPUT / "tv.json").write_text(json_text, encoding="utf-8")
@@ -657,12 +772,10 @@ def main() -> None:
     expanded_playlist = build_playlist(buckets, expanded=True)
     (OUTPUT / "raw-tv-expanded.m3u8").write_text(expanded_playlist, encoding="utf-8")
 
-    xmltv = build_xmltv(buckets, expanded=False)
-    (OUTPUT / "epg.xml").write_text(xmltv, encoding="utf-8")
+    xmltv = build_xmltv(buckets, expanded=False, rich_program_indexes=rich_program_indexes)
     write_gzip(OUTPUT / "epg.xml.gz", xmltv)
 
-    expanded_xmltv = build_xmltv(buckets, expanded=True)
-    (OUTPUT / "epg-expanded.xml").write_text(expanded_xmltv, encoding="utf-8")
+    expanded_xmltv = build_xmltv(buckets, expanded=True, rich_program_indexes=rich_program_indexes)
     write_gzip(OUTPUT / "epg-expanded.xml.gz", expanded_xmltv)
 
     variant_count = sum(len(variants) for variants in buckets.values())

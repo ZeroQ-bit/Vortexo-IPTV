@@ -1,4 +1,4 @@
-ƒ# i.mjh.nz AU Merged IPTV Fork
+# i.mjh.nz AU Merged IPTV Fork
 
 This fork tracks [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and adds an Australia-focused merged IPTV output for IPTV Apps.
 
@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/ZeroQ-bit/i.mjh.nz/master/merged/au/epg.xml.gz
 ```
 
 This is the normal merged list. Regional AU channels are merged together, with Perth/WA preferred by default.
+The EPG is published compressed so it can include rich artwork and descriptions without exceeding GitHub file limits.
 
 ### Expanded Playlist
 
@@ -54,18 +55,18 @@ The merged AU output currently includes public/playable streams from:
 
 | Source | Channels |
 | --- | ---: |
-| PlutoTV | 2396 |
+| PlutoTV | 2401 |
 | Samsung TV Plus | 2315 |
-| Roku | 371 |
+| Roku | 363 |
 | Plex AU | 291 |
-| i.mjh.nz AU | 196 |
+| i.mjh.nz AU | 195 |
 | PBS Kids | 1 |
 
 Current generated total:
 
 ```text
-5570 merged channels
-5624 variants
+5566 merged channels
+5620 variants
 ```
 
 Categories are generated into groups such as:
@@ -105,6 +106,7 @@ The generator:
 - Merges Australian regional variants into one default channel.
 - Prefers Perth/WA regional streams for the normal playlist.
 - Groups explicit 24/7 channels and AU FAST channels into a `24/7` category.
+- Remaps rich upstream XMLTV metadata into the merged IDs, including program artwork, descriptions, categories, and subtitles when available.
 - Keeps all variants in the expanded playlist and JSON catalog.
 - Pulls public SlyGuy-style stream templates where possible, such as `jmp2.uk` redirects for PlutoTV, Roku, Samsung TV Plus, and Plex AU.
 - Skips channels that need Widevine DRM, paid provider authentication, or private/local redirect services.
