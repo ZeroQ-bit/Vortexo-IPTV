@@ -252,6 +252,21 @@ def canonical_id(channel_id: str, data: dict[str, Any]) -> str:
     return epg_id
 
 
+def is_twenty_four_seven(variant: ChannelVariant) -> bool:
+    channel_id = variant.channel_id.lower()
+    epg_id = variant.epg_id.lower()
+    name = variant.name.lower()
+    text = f"{channel_id} {epg_id} {name}"
+
+    if variant.source == "au/all" and channel_id.endswith("-fast"):
+        return True
+    return bool(
+        re.search(r"24\s*/\s*7|24\s*-\s*7", text)
+        or re.search(r"(?<![a-z0-9])247(?![a-z0-9])", text)
+        or "twentyfourseven" in text
+    )
+
+
 def category_for(variant: ChannelVariant) -> str:
     name = variant.name.lower()
     network = str(variant.data.get("network") or "").lower()
@@ -262,6 +277,8 @@ def category_for(variant: ChannelVariant) -> str:
         group = str(variant.data.get("group") or "").lower()
     text = f"{name} {network} {group}"
 
+    if is_twenty_four_seven(variant):
+        return "24/7"
     if group:
         first_group = group.split()[0]
         if first_group in {

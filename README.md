@@ -71,6 +71,7 @@ Current generated total:
 Categories are generated into groups such as:
 
 ```text
+24/7
 AU Freeview
 Movies
 Series
@@ -103,6 +104,7 @@ The generator:
 - Excludes New Zealand channels from the AU merged output.
 - Merges Australian regional variants into one default channel.
 - Prefers Perth/WA regional streams for the normal playlist.
+- Groups explicit 24/7 channels and AU FAST channels into a `24/7` category.
 - Keeps all variants in the expanded playlist and JSON catalog.
 - Pulls public SlyGuy-style stream templates where possible, such as `jmp2.uk` redirects for PlutoTV, Roku, Samsung TV Plus, and Plex AU.
 - Skips channels that need Widevine DRM, paid provider authentication, or private/local redirect services.
