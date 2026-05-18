@@ -3,8 +3,9 @@
 
 The upstream "all" catalog currently contains Australia, New Zealand, and a
 small world news set. This generator keeps Australia + world, excludes New
-Zealand, and writes both a merged playlist and an expanded playlist that keeps
-regional variants available for apps that support fallback selection.
+Zealand, pulls public/free provider catalogs that expose usable stream URL
+templates, and writes both a merged playlist and an expanded playlist that
+keeps regional variants available for apps that support fallback selection.
 """
 
 from __future__ import annotations
@@ -31,9 +32,57 @@ OPTIONAL_SOURCES = [
     ("all", ROOT / "all" / "tv.json.gz"),
 ]
 
+PUBLIC_PROVIDER_SOURCES = [
+    {
+        "source": "Plex",
+        "path": ROOT / "Plex" / ".channels.json.gz",
+        "mode": "channels",
+        "url_template": "https://jmp2.uk/plex-{id}.m3u8",
+        "include_regions": {"au"},
+        "exclude_regions": {"nz"},
+    },
+    {
+        "source": "PlutoTV",
+        "path": ROOT / "PlutoTV" / ".channels.json.gz",
+        "mode": "regions",
+        "url_template": "https://jmp2.uk/plu-{id}.m3u8",
+        "exclude_regions": set(),
+    },
+    {
+        "source": "Roku",
+        "path": ROOT / "Roku" / ".channels.json.gz",
+        "mode": "channels",
+        "url_template": "https://jmp2.uk/rok-{id}.m3u8",
+        "exclude_regions": set(),
+    },
+    {
+        "source": "SamsungTVPlus",
+        "path": ROOT / "SamsungTVPlus" / ".channels.json.gz",
+        "mode": "regions",
+        "url_template": "https://jmp2.uk/{slug}",
+        "slug_format_key": "slug",
+        "exclude_regions": set(),
+        "skip_drm": True,
+    },
+]
+
 EXCLUDED_SOURCE_FILES = [
     ROOT / "nz" / "tv.json.gz",
 ]
+
+SKIPPED_SOURCES = {
+    "Binge": "EPG/app metadata only in i.mjh.nz; no public playable stream URL.",
+    "DStv": "EPG only here; upstream plugin repo is unavailable due to DMCA takedown.",
+    "Foxtel": "EPG/app metadata only; streams require provider auth/DRM.",
+    "Kayo": "Streams require Streamotion auth and Kayo now protects channels with DRM.",
+    "MeTV": "EPG only in i.mjh.nz; no public playable stream URL.",
+    "PBS": "Main PBS station streams are Widevine-protected; Vortexo cannot play them directly.",
+    "Singtel": "EPG only in i.mjh.nz; streams require provider auth.",
+    "SkyGo": "EPG only and NZ-focused; excluded for Australia playback.",
+    "SkySportNow": "EPG only and NZ-focused; excluded for Australia playback.",
+    "frndly_tv": "Requires Frndly account auth and a local redirect service.",
+    "hgtv_go": "App/EPG metadata only; streams require provider auth.",
+}
 
 REGION_SUFFIXES = {
     "act",
@@ -126,10 +175,16 @@ class ChannelVariant:
 
     @property
     def region(self) -> str:
+        explicit = self.data.get("region_code")
+        if explicit:
+            return str(explicit).lower()
         return detect_region(self.channel_id)
 
     @property
     def region_name(self) -> str:
+        explicit = self.data.get("region_name") or self.data.get("region")
+        if explicit:
+            return str(explicit)
         return REGION_LABELS.get(self.region, self.region.upper() if self.region else "")
 
     @property
@@ -165,6 +220,10 @@ def detect_region(channel_id: str) -> str:
 
 
 def canonical_id(channel_id: str, data: dict[str, Any]) -> str:
+    merge_id = data.get("merge_id")
+    if merge_id:
+        return str(merge_id).lower()
+
     epg_id = str(data.get("epg_id") or channel_id).lower()
 
     for pattern in [
@@ -196,9 +255,27 @@ def canonical_id(channel_id: str, data: dict[str, Any]) -> str:
 def category_for(variant: ChannelVariant) -> str:
     name = variant.name.lower()
     network = str(variant.data.get("network") or "").lower()
-    group = str(variant.data.get("group") or "").lower()
+    raw_groups = variant.data.get("groups")
+    if isinstance(raw_groups, list):
+        group = " ".join(str(value) for value in raw_groups).lower()
+    else:
+        group = str(variant.data.get("group") or "").lower()
     text = f"{name} {network} {group}"
 
+    if group:
+        first_group = group.split()[0]
+        if first_group in {
+            "movies",
+            "kids",
+            "news",
+            "sports",
+            "music",
+            "comedy",
+            "documentaries",
+            "lifestyle",
+            "entertainment",
+        }:
+            return "Sport" if first_group == "sports" else first_group.title()
     if name in {"10", "seven", "channel 9", "abc tv", "sbs"}:
         return "AU Freeview"
     if any(word in text for word in ["news", "al jazeera", "dw", "euronews", "france 24"]):
@@ -226,7 +303,17 @@ def category_for(variant: ChannelVariant) -> str:
 
 def variant_sort_key(variant: ChannelVariant) -> tuple[int, int, str]:
     region_score = REGION_PRIORITY.get(variant.region, 500)
-    source_score = 0 if variant.source == "au/all" else 100
+    source_order = {
+        "au/all": 0,
+        "world": 10,
+        "all": 20,
+        "Plex": 40,
+        "PlutoTV": 50,
+        "Roku": 60,
+        "SamsungTVPlus": 70,
+        "PBSKids": 80,
+    }
+    source_score = source_order.get(variant.source, 100)
     return (region_score, source_score, variant.name.lower())
 
 
@@ -248,6 +335,120 @@ def load_excluded_ids() -> set[str]:
                 excluded.add(str(value.get("epg_id") or key).lower())
             excluded.add(str(key).lower())
     return excluded
+
+
+def provider_regions(channel: dict[str, Any], fallback: str | None = None) -> set[str]:
+    regions = channel.get("regions")
+    if isinstance(regions, list):
+        return {str(region).lower() for region in regions}
+    if fallback:
+        return {fallback.lower()}
+    return set()
+
+
+def provider_group(channel: dict[str, Any]) -> str:
+    groups = channel.get("groups")
+    if isinstance(groups, list) and groups:
+        return str(groups[0])
+    return str(channel.get("group") or "")
+
+
+def public_channel_payload(
+    source: str,
+    channel_id: str,
+    channel: dict[str, Any],
+    url: str,
+    region_code: str | None = None,
+    region_name: str | None = None,
+) -> dict[str, Any]:
+    payload = dict(channel)
+    payload["epg_id"] = f"{source.lower()}-{channel_id}".replace("_", "-")
+    payload["merge_id"] = payload["epg_id"]
+    payload["mjh_master"] = url
+    payload["source_name"] = source
+    payload.setdefault("group", provider_group(channel))
+    if region_code:
+        payload["region_code"] = region_code.lower()
+    if region_name:
+        payload["region_name"] = region_name
+    return payload
+
+
+def iter_public_provider_variants(source_def: dict[str, Any]) -> list[ChannelVariant]:
+    data = load_json_gz(source_def["path"])
+    source = str(source_def["source"])
+    include_regions = set(source_def.get("include_regions") or set())
+    exclude_regions = set(source_def.get("exclude_regions") or set())
+    skip_drm = bool(source_def.get("skip_drm"))
+    variants: list[ChannelVariant] = []
+    seen: set[str] = set()
+
+    def add_channel(channel_id: str, channel: dict[str, Any], region_code: str | None = None, region_name: str | None = None) -> None:
+        if skip_drm and channel.get("license_url"):
+            return
+        regions = provider_regions(channel, fallback=region_code)
+        if include_regions and not (regions & include_regions):
+            return
+        if regions and regions.issubset(exclude_regions):
+            return
+
+        slug = channel_id
+        slug_format_key = source_def.get("slug_format_key")
+        if slug_format_key:
+            slug_format = data.get(str(slug_format_key), "{id}")
+            slug = str(slug_format).format(id=channel_id)
+
+        url = str(source_def["url_template"]).format(id=channel_id, slug=slug)
+        payload = public_channel_payload(source, channel_id, channel, url, region_code, region_name)
+        key = f"{payload['merge_id']}|{url}"
+        if key in seen:
+            return
+        seen.add(key)
+        variants.append(ChannelVariant(source, str(channel_id), payload))
+
+    if source_def["mode"] == "channels":
+        for channel_id, channel in data.get("channels", {}).items():
+            if isinstance(channel, dict):
+                add_channel(str(channel_id), channel)
+    elif source_def["mode"] == "regions":
+        for region_code, region in data.get("regions", {}).items():
+            if str(region_code).lower() in exclude_regions:
+                continue
+            if not isinstance(region, dict):
+                continue
+            region_name = str(region.get("name") or region_code)
+            if include_regions and str(region_code).lower() not in include_regions:
+                continue
+            for channel_id, channel in region.get("channels", {}).items():
+                if isinstance(channel, dict):
+                    add_channel(str(channel_id), channel, str(region_code), region_name)
+    else:
+        raise ValueError(f"Unknown public provider mode: {source_def['mode']}")
+
+    return variants
+
+
+def iter_pbs_kids_variants() -> list[ChannelVariant]:
+    data = load_json_gz(ROOT / "PBS" / ".kids_app.json.gz")
+    channels = data.get("channels", {})
+    for channel in channels.values():
+        if not isinstance(channel, dict):
+            continue
+        url = str(channel.get("url") or "")
+        if not url:
+            continue
+        payload = {
+            "epg_id": "pbskids-live",
+            "merge_id": "pbskids-live",
+            "name": "PBS Kids",
+            "logo": channel.get("logo"),
+            "group": "Kids",
+            "mjh_master": url,
+            "source_name": "PBSKids",
+            "programs": channel.get("programs", []),
+        }
+        return [ChannelVariant("PBSKids", "pbskids-live", payload)]
+    return []
 
 
 def collect_channels() -> dict[str, list[ChannelVariant]]:
@@ -272,6 +473,15 @@ def collect_channels() -> dict[str, list[ChannelVariant]]:
         add_source(source, path, skip_existing=False)
     for source, path in OPTIONAL_SOURCES:
         add_source(source, path, skip_existing=True)
+
+    for source_def in PUBLIC_PROVIDER_SOURCES:
+        for variant in iter_public_provider_variants(source_def):
+            key = canonical_id(variant.channel_id, variant.data)
+            buckets.setdefault(key, []).append(variant)
+
+    for variant in iter_pbs_kids_variants():
+        key = canonical_id(variant.channel_id, variant.data)
+        buckets.setdefault(key, []).append(variant)
 
     return buckets
 
@@ -418,6 +628,9 @@ def main() -> None:
     json_text = json.dumps(catalog, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     (OUTPUT / "tv.json").write_text(json_text, encoding="utf-8")
     write_gzip(OUTPUT / "tv.json.gz", json_text)
+
+    skipped_text = json.dumps(SKIPPED_SOURCES, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+    (OUTPUT / "skipped-sources.json").write_text(skipped_text, encoding="utf-8")
 
     playlist = build_playlist(buckets, expanded=False)
     (OUTPUT / "raw-tv.m3u8").write_text(playlist, encoding="utf-8")

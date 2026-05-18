@@ -1,0 +1,13 @@
+{
+  "Binge": "EPG/app metadata only in i.mjh.nz; no public playable stream URL.",
+  "DStv": "EPG only here; upstream plugin repo is unavailable due to DMCA takedown.",
+  "Foxtel": "EPG/app metadata only; streams require provider auth/DRM.",
+  "Kayo": "Streams require Streamotion auth and Kayo now protects channels with DRM.",
+  "MeTV": "EPG only in i.mjh.nz; no public playable stream URL.",
+  "PBS": "Main PBS station streams are Widevine-protected; Vortexo cannot play them directly.",
+  "Singtel": "EPG only in i.mjh.nz; streams require provider auth.",
+  "SkyGo": "EPG only and NZ-focused; excluded for Australia playback.",
+  "SkySportNow": "EPG only and NZ-focused; excluded for Australia playback.",
+  "frndly_tv": "Requires Frndly account auth and a local redirect service.",
+  "hgtv_go": "App/EPG metadata only; streams require provider auth."
+}
