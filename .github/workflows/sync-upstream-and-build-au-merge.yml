@@ -32,14 +32,14 @@ jobs:
         run: |
           git remote add upstream https://github.com/matthuisman/i.mjh.nz.git || git remote set-url upstream https://github.com/matthuisman/i.mjh.nz.git
           git fetch upstream master
-          git merge --no-edit upstream/master
+          git checkout upstream/master -- all au world nz Plex PlutoTV Roku SamsungTVPlus PBS
 
       - name: Build AU merged outputs
         run: python3 scripts/build_au_merged.py
 
       - name: Commit generated outputs
         run: |
-          git add merged/au scripts/build_au_merged.py .github/workflows/sync-upstream-and-build-au-merge.yml
+          git add all au world nz Plex PlutoTV Roku SamsungTVPlus PBS merged/au scripts/build_au_merged.py .github/workflows/sync-upstream-and-build-au-merge.yml
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
           else

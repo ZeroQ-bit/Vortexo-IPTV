@@ -590,7 +590,9 @@ def write_xmltv_programs(lines: list[str], channel_id: str, programs: list[Any])
             start = int(entry[0])
         except (TypeError, ValueError):
             continue
-        title = str(entry[1])
+        title = " ".join(str(entry[1]).split())
+        if not title:
+            continue
         normalized.append((start, title))
 
     normalized.sort()
