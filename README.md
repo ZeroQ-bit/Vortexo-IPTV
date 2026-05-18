@@ -1,12 +1,12 @@
-# i.mjh.nz AU Merged IPTV Fork
+ƒ# i.mjh.nz AU Merged IPTV Fork
 
-This fork tracks [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and adds an Australia-focused merged IPTV output for Vortexo and other IPTV apps.
+This fork tracks [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and adds an Australia-focused merged IPTV output for IPTV App and other IPTV apps.
 
 The goal is simple: one playlist, one EPG, clean groups, Australian local channels preferred, and no New Zealand channels in the merged AU output.
 
-## Vortexo URLs
+## IPTV App URLs
 
-Use these in Vortexo settings when adding a Live TV source.
+Use these in IPTV App settings when adding a Live TV source.
 
 ### Recommended Playlist
 
