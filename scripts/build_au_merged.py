@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build an Australia-focused merged IPTV catalog from i.mjh.nz data.
+"""Build Vortexo IPTV's Australia-focused merged catalog from upstream i.mjh.nz data.
 
 The upstream "all" catalog currently contains Australia, New Zealand, and a
 small world news set. This generator keeps Australia + world, excludes New

@@ -1,6 +1,6 @@
-# i.mjh.nz AU Merged IPTV Fork
+# Vortexo IPTV
 
-This fork tracks [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and adds an Australia-focused merged IPTV output for IPTV Apps.
+Vortexo IPTV tracks [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and adds an Australia-focused merged IPTV output for IPTV apps.
 
 The goal is simple: one playlist, one EPG, clean groups, Australian local channels preferred, and no New Zealand channels in the merged AU output.
 
@@ -13,13 +13,13 @@ Use these in IPTV App settings when adding a Live TV source.
 M3U playlist:
 
 ```text
-https://raw.githubusercontent.com/ZeroQ-bit/i.mjh.nz/master/merged/au/raw-tv.m3u8
+https://raw.githubusercontent.com/ZeroQ-bit/Vortexo-IPTV/master/merged/au/raw-tv.m3u8
 ```
 
 EPG:
 
 ```text
-https://raw.githubusercontent.com/ZeroQ-bit/i.mjh.nz/master/merged/au/epg.xml.gz
+https://raw.githubusercontent.com/ZeroQ-bit/Vortexo-IPTV/master/merged/au/epg.xml.gz
 ```
 
 This is the normal merged list. Regional AU channels are merged together, with Perth/WA preferred by default.
@@ -30,13 +30,13 @@ The EPG is published compressed so it can include rich artwork and descriptions 
 M3U playlist:
 
 ```text
-https://raw.githubusercontent.com/ZeroQ-bit/i.mjh.nz/master/merged/au/raw-tv-expanded.m3u8
+https://raw.githubusercontent.com/ZeroQ-bit/Vortexo-IPTV/master/merged/au/raw-tv-expanded.m3u8
 ```
 
 EPG:
 
 ```text
-https://raw.githubusercontent.com/ZeroQ-bit/i.mjh.nz/master/merged/au/epg-expanded.xml.gz
+https://raw.githubusercontent.com/ZeroQ-bit/Vortexo-IPTV/master/merged/au/epg-expanded.xml.gz
 ```
 
 Use this if you want every regional variant listed separately, for example 10 WA, 10 NSW, 10 VIC, and so on.
@@ -44,7 +44,7 @@ Use this if you want every regional variant listed separately, for example 10 WA
 ### JSON Catalog
 
 ```text
-https://raw.githubusercontent.com/ZeroQ-bit/i.mjh.nz/master/merged/au/tv.json.gz
+https://raw.githubusercontent.com/ZeroQ-bit/Vortexo-IPTV/master/merged/au/tv.json.gz
 ```
 
 This is for apps that can understand richer channel data. It includes variants, categories, logos, EPG IDs, source names, and fallback metadata.
@@ -97,7 +97,7 @@ This fork adds:
 - `merged/au/epg-expanded.xml.gz`
 - `merged/au/tv.json.gz`
 - `merged/au/skipped-sources.json`
-- A daily GitHub Actions workflow that syncs from upstream and rebuilds the merged AU output.
+- A daily GitHub Actions workflow that syncs from upstream and rebuilds the Vortexo IPTV AU output.
 
 The generator:
 
@@ -145,6 +145,6 @@ It runs daily and can also be started manually from GitHub Actions. It:
 
 ## Notes
 
-This fork is not the official upstream project. Original data and provider work come from Matthuisman's i.mjh.nz and related SlyGuy projects.
+Vortexo IPTV is not the official upstream project. Original data and provider work come from Matthuisman's i.mjh.nz and related SlyGuy projects.
 
 Some public FAST channels are geo-restricted or may stop working if a provider changes its endpoint. The merged output is best-effort and rebuilt daily.

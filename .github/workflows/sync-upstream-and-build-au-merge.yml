@@ -1,4 +1,4 @@
-name: Sync upstream and build AU merge
+name: Sync upstream and build Vortexo IPTV AU merge
 
 on:
   workflow_dispatch:
