@@ -1,0 +1,751 @@
+#EXTM3U x-tvg-url="epg-expanded.xml.gz"
+
+#EXTINF:-1 channel-id="mjh-10-wa" tvg-id="mjh-10-wa" tvg-name="10 (Western Australia)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU Freeview" tvg-chno="10",10 (Western Australia)
+https://i.mjh.nz/.r/10-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-nsw" tvg-id="mjh-10-nsw" tvg-name="10 (New South Wales)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU Freeview" tvg-chno="10",10 (New South Wales)
+https://i.mjh.nz/.r/10-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-vic" tvg-id="mjh-10-vic" tvg-name="10 (Victoria)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU Freeview" tvg-chno="10",10 (Victoria)
+https://i.mjh.nz/.r/10-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-qld" tvg-id="mjh-10-qld" tvg-name="10 (Queensland)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU Freeview" tvg-chno="10",10 (Queensland)
+https://i.mjh.nz/.r/10-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-sa" tvg-id="mjh-10-sa" tvg-name="10 (South Australia)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU Freeview" tvg-chno="10",10 (South Australia)
+https://i.mjh.nz/.r/10-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-wa" tvg-id="mjh-10peach-wa" tvg-name="10 Comedy (Western Australia)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Comedy" tvg-chno="11",10 Comedy (Western Australia)
+https://i.mjh.nz/.r/10peach-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-nsw" tvg-id="mjh-10peach-nsw" tvg-name="10 Comedy (New South Wales)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Comedy" tvg-chno="11",10 Comedy (New South Wales)
+https://i.mjh.nz/.r/10peach-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-vic" tvg-id="mjh-10peach-vic" tvg-name="10 Comedy (Victoria)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Comedy" tvg-chno="11",10 Comedy (Victoria)
+https://i.mjh.nz/.r/10peach-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-qld" tvg-id="mjh-10peach-qld" tvg-name="10 Comedy (Queensland)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Comedy" tvg-chno="11",10 Comedy (Queensland)
+https://i.mjh.nz/.r/10peach-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-sa" tvg-id="mjh-10peach-sa" tvg-name="10 Comedy (South Australia)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Comedy" tvg-chno="11",10 Comedy (South Australia)
+https://i.mjh.nz/.r/10peach-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-wa" tvg-id="mjh-10bold-wa" tvg-name="10 Drama (Western Australia)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="Series" tvg-chno="12",10 Drama (Western Australia)
+https://i.mjh.nz/.r/10bold-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-nsw" tvg-id="mjh-10bold-nsw" tvg-name="10 Drama (New South Wales)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="Series" tvg-chno="12",10 Drama (New South Wales)
+https://i.mjh.nz/.r/10bold-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-vic" tvg-id="mjh-10bold-vic" tvg-name="10 Drama (Victoria)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="Series" tvg-chno="12",10 Drama (Victoria)
+https://i.mjh.nz/.r/10bold-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-qld" tvg-id="mjh-10bold-qld" tvg-name="10 Drama (Queensland)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="Series" tvg-chno="12",10 Drama (Queensland)
+https://i.mjh.nz/.r/10bold-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-sa" tvg-id="mjh-10bold-sa" tvg-name="10 Drama (South Australia)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="Series" tvg-chno="12",10 Drama (South Australia)
+https://i.mjh.nz/.r/10bold-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-wa" tvg-id="mjh-10shake-wa" tvg-name="Nickelodeon (Western Australia)" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png" group-title="Kids" tvg-chno="13",Nickelodeon (Western Australia)
+https://i.mjh.nz/.r/10shake-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-nsw" tvg-id="mjh-10shake-nsw" tvg-name="Nickelodeon (New South Wales)" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png" group-title="Kids" tvg-chno="13",Nickelodeon (New South Wales)
+https://i.mjh.nz/.r/10shake-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-vic" tvg-id="mjh-10shake-vic" tvg-name="Nickelodeon (Victoria)" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png" group-title="Kids" tvg-chno="13",Nickelodeon (Victoria)
+https://i.mjh.nz/.r/10shake-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-qld" tvg-id="mjh-10shake-qld" tvg-name="Nickelodeon (Queensland)" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png" group-title="Kids" tvg-chno="13",Nickelodeon (Queensland)
+https://i.mjh.nz/.r/10shake-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-sa" tvg-id="mjh-10shake-sa" tvg-name="Nickelodeon (South Australia)" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png" group-title="Kids" tvg-chno="13",Nickelodeon (South Australia)
+https://i.mjh.nz/.r/10shake-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-youtv" tvg-id="mjh-10-youtv" tvg-name="YouTV" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo" group-title="AU Freeview" tvg-chno="16",YouTV
+https://i.mjh.nz/.r/10-youtv.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-geckotv" tvg-id="mjh-10-geckotv" tvg-name="Gecko TV" tvg-logo="https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo" group-title="AU Freeview" tvg-chno="17",Gecko TV
+https://i.mjh.nz/.r/10-geckotv.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-wa" tvg-id="mjh-abc-wa" tvg-name="ABC TV (Western Australia)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (Western Australia)
+https://c.mjh.nz/abc-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-nsw" tvg-id="mjh-abc-nsw" tvg-name="ABC TV (New South Wales)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (New South Wales)
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-vic" tvg-id="mjh-abc-vic" tvg-name="ABC TV (Victoria)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (Victoria)
+https://c.mjh.nz/abc-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-qld" tvg-id="mjh-abc-qld" tvg-name="ABC TV (Queensland)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (Queensland)
+https://c.mjh.nz/abc-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-sa" tvg-id="mjh-abc-sa" tvg-name="ABC TV (South Australia)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (South Australia)
+https://c.mjh.nz/abc-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-act" tvg-id="mjh-abc-act" tvg-name="ABC TV (Canberra)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (Canberra)
+https://c.mjh.nz/abc-act.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-tas" tvg-id="mjh-abc-tas" tvg-name="ABC TV (Tasmania)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (Tasmania)
+https://c.mjh.nz/abc-tas.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-nt" tvg-id="mjh-abc-nt" tvg-name="ABC TV (Northern Territory)" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU Freeview" tvg-chno="21",ABC TV (Northern Territory)
+https://c.mjh.nz/abc-nt.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-tv-plus" tvg-id="mjh-abc-tv-plus" tvg-name="ABC Family" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" group-title="AU Freeview" tvg-chno="22",ABC Family
+https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-name="ABC Kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="Kids" tvg-chno="22",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="mjh-abc-me" tvg-name="ABC Entertains" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/6_Entertains_C-1054_iview_LivestreamOn_2000x2000_new.png" group-title="Series" tvg-chno="23",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-name="ABC NEWS" tvg-logo="https://i.mjh.nz/.images/abc-news.png" group-title="News" tvg-chno="24",ABC NEWS
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbst" tvg-id="mjh-sbs-sbst" tvg-name="SBS" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c" group-title="AU Freeview" tvg-chno="30",SBS
+https://i.mjh.nz/.r/sbs-sbst.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-2syd" tvg-id="mjh-sbs-2syd" tvg-name="SBS VICELAND" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500" group-title="AU Freeview" tvg-chno="31",SBS VICELAND
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-4syd" tvg-id="mjh-sbs-4syd" tvg-name="SBS World Movies" tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb" group-title="Movies" tvg-chno="32",SBS World Movies
+https://i.mjh.nz/.r/sbs-4syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-name="SBS Food" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" group-title="Lifestyle" tvg-chno="33",SBS Food
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-5nsw" tvg-id="mjh-sbs-5nsw" tvg-name="NITV" tvg-logo="https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6" group-title="AU Freeview" tvg-chno="34",NITV
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-6nat" tvg-id="mjh-sbs-6nat" tvg-name="SBS WorldWatch" tvg-logo="https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555" group-title="News" tvg-chno="35",SBS WorldWatch
+https://i.mjh.nz/.r/sbs-6nat.m3u8
+
+#EXTINF:-1 channel-id="mjh-first-nations-tv" tvg-id="mjh-first-nations-tv" tvg-name="First Nations TV" tvg-logo="https://i.mjh.nz/.images/first-nations-tv.png" group-title="Entertainment" tvg-chno="41",First Nations TV
+https://i.mjh.nz/.r/first-nations-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-tourism-tv" tvg-id="mjh-tourism-tv" tvg-name="Tourism TV" tvg-logo="https://i.mjh.nz/.images/tourism-tv.png" group-title="Entertainment" tvg-chno="42",Tourism TV
+https://i.mjh.nz/.r/tourism-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-c31" tvg-id="mjh-c31" tvg-name="Channel 31" tvg-logo="https://i.mjh.nz/.images/c31.png" group-title="Entertainment" tvg-chno="44",Channel 31
+https://i.mjh.nz/.r/c31.m3u8
+
+#EXTINF:-1 channel-id="mjh-c44" tvg-id="mjh-c44" tvg-name="Channel 44" tvg-logo="https://i.mjh.nz/.images/c44.png" group-title="Entertainment" tvg-chno="44",Channel 44
+https://i.mjh.nz/.r/c44.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-name="Seven (Perth)" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="AU Freeview" tvg-chno="71",Seven (Perth)
+https://i.mjh.nz/.r/seven-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-name="Seven (Sydney)" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" group-title="AU Freeview" tvg-chno="71",Seven (Sydney)
+https://i.mjh.nz/.r/seven-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-name="Seven (Melbourne)" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" group-title="AU Freeview" tvg-chno="71",Seven (Melbourne)
+https://i.mjh.nz/.r/seven-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-name="Seven (Brisbane)" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" group-title="AU Freeview" tvg-chno="71",Seven (Brisbane)
+https://i.mjh.nz/.r/seven-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-name="Seven (Adelaide)" tvg-logo="https://i.mjh.nz/.images/auto-seven-ade-9608a4.png" group-title="AU Freeview" tvg-chno="71",Seven (Adelaide)
+https://i.mjh.nz/.r/seven-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-cns" tvg-id="mjh-seven-cns" tvg-name="Seven Cairns (Cairns)" tvg-logo="https://i.mjh.nz/.images/auto-seven-cns-9608a4.png" group-title="AU Freeview",Seven Cairns (Cairns)
+https://i.mjh.nz/.r/seven-cns.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-mky" tvg-id="mjh-seven-mky" tvg-name="Seven Mackay (Mackay)" tvg-logo="https://i.mjh.nz/.images/auto-seven-mky-9608a4.png" group-title="AU Freeview",Seven Mackay (Mackay)
+https://i.mjh.nz/.r/seven-mky.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-rky" tvg-id="mjh-seven-rky" tvg-name="Seven Rockhampton (Rockhampton)" tvg-logo="https://i.mjh.nz/.images/auto-seven-rky-9608a4.png" group-title="AU Freeview",Seven Rockhampton (Rockhampton)
+https://i.mjh.nz/.r/seven-rky.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-name="Seven Sunshine Coast (Sunshine Coast)" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="AU Freeview",Seven Sunshine Coast (Sunshine Coast)
+https://i.mjh.nz/.r/seven-ssc.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-twb" tvg-id="mjh-seven-twb" tvg-name="Seven Toowoomba (Toowoomba)" tvg-logo="https://i.mjh.nz/.images/auto-seven-twb-e627be.png" group-title="AU Freeview",Seven Toowoomba (Toowoomba)
+https://i.mjh.nz/.r/seven-twb.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-tsv" tvg-id="mjh-seven-tsv" tvg-name="Seven Townsville (Townsville)" tvg-logo="https://i.mjh.nz/.images/auto-seven-tsv-9608a4.png" group-title="AU Freeview",Seven Townsville (Townsville)
+https://i.mjh.nz/.r/seven-tsv.m3u8
+
+#EXTINF:-1 channel-id="mjh-seven-wby" tvg-id="mjh-seven-wby" tvg-name="Seven Wide Bay (Wide Bay)" tvg-logo="https://i.mjh.nz/.images/auto-seven-wby-9608a4.png" group-title="AU Freeview",Seven Wide Bay (Wide Bay)
+https://i.mjh.nz/.r/seven-wby.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-ade" tvg-id="mjh-7two-ade" tvg-name="7two (Adelaide)" tvg-logo="https://i.mjh.nz/.images/auto-7two-ade-701123.png" group-title="AU Freeview" tvg-chno="72",7two (Adelaide)
+https://i.mjh.nz/.r/7two-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-name="7two (Brisbane)" tvg-logo="https://i.mjh.nz/.images/auto-7two-bri-701123.png" group-title="AU Freeview" tvg-chno="72",7two (Brisbane)
+https://i.mjh.nz/.r/7two-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-name="7two (Melbourne)" tvg-logo="https://i.mjh.nz/.images/auto-7two-mel-701123.png" group-title="AU Freeview" tvg-chno="72",7two (Melbourne)
+https://i.mjh.nz/.r/7two-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-per" tvg-id="mjh-7two-per" tvg-name="7two (Perth)" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU Freeview" tvg-chno="72",7two (Perth)
+https://i.mjh.nz/.r/7two-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-syd" tvg-id="mjh-7two-syd" tvg-name="7two (Sydney)" tvg-logo="https://i.mjh.nz/.images/auto-7two-syd-701123.png" group-title="AU Freeview" tvg-chno="72",7two (Sydney)
+https://i.mjh.nz/.r/7two-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-ade" tvg-id="mjh-7mate-ade" tvg-name="7mate (Adelaide)" tvg-logo="https://i.mjh.nz/.images/auto-7mate-ade-360d60.png" group-title="AU Freeview" tvg-chno="74",7mate (Adelaide)
+https://i.mjh.nz/.r/7mate-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-name="7mate (Brisbane)" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" group-title="AU Freeview" tvg-chno="74",7mate (Brisbane)
+https://i.mjh.nz/.r/7mate-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-name="7mate (Melbourne)" tvg-logo="https://i.mjh.nz/.images/auto-7mate-mel-360d60.png" group-title="AU Freeview" tvg-chno="74",7mate (Melbourne)
+https://i.mjh.nz/.r/7mate-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-per" tvg-id="mjh-7mate-per" tvg-name="7mate (Perth)" tvg-logo="https://i.mjh.nz/.images/auto-7mate-per-360d60.png" group-title="AU Freeview" tvg-chno="74",7mate (Perth)
+https://i.mjh.nz/.r/7mate-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-syd" tvg-id="mjh-7mate-syd" tvg-name="7mate (Sydney)" tvg-logo="https://i.mjh.nz/.images/auto-7mate-syd-360d60.png" group-title="AU Freeview" tvg-chno="74",7mate (Sydney)
+https://i.mjh.nz/.r/7mate-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-7bravo-fast" tvg-id="mjh-7bravo-fast" tvg-name="7Bravo" tvg-logo="https://i.mjh.nz/.images/auto-7bravo-fast-04647e.png" group-title="AU Freeview" tvg-chno="75",7Bravo
+https://i.mjh.nz/.r/7bravo-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-ade" tvg-id="mjh-7flix-ade" tvg-name="7flix (Adelaide)" tvg-logo="https://i.mjh.nz/.images/auto-7flix-ade-c6badc.png" group-title="AU Freeview" tvg-chno="76",7flix (Adelaide)
+https://i.mjh.nz/.r/7flix-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-name="7flix (Brisbane)" tvg-logo="https://i.mjh.nz/.images/auto-7flix-bri-c6badc.png" group-title="AU Freeview" tvg-chno="76",7flix (Brisbane)
+https://i.mjh.nz/.r/7flix-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-name="7flix (Melbourne)" tvg-logo="https://i.mjh.nz/.images/auto-7flix-mel-c6badc.png" group-title="AU Freeview" tvg-chno="76",7flix (Melbourne)
+https://i.mjh.nz/.r/7flix-mel.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-per" tvg-id="mjh-7flix-per" tvg-name="7flix (Perth)" tvg-logo="https://i.mjh.nz/.images/auto-7flix-per-c6badc.png" group-title="AU Freeview" tvg-chno="76",7flix (Perth)
+https://i.mjh.nz/.r/7flix-per.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-syd" tvg-id="mjh-7flix-syd" tvg-name="7flix (Sydney)" tvg-logo="https://i.mjh.nz/.images/auto-7flix-syd-c6badc.png" group-title="AU Freeview" tvg-chno="76",7flix (Sydney)
+https://i.mjh.nz/.r/7flix-syd.m3u8
+
+#EXTINF:-1 channel-id="mjh-tvsn-fast" tvg-id="mjh-tvsn-fast" tvg-name="TVSN" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" group-title="AU Freeview" tvg-chno="77",TVSN
+https://i.mjh.nz/.r/tvsn-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-id="mjh-racing-fast" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU Freeview" tvg-chno="78",Racing.com
+https://i.mjh.nz/.r/racing-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-wa" tvg-id="mjh-channel-9-wa" tvg-name="Channel 9 (Western Australia)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview" tvg-chno="91",Channel 9 (Western Australia)
+https://i.mjh.nz/.r/channel-9-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-nsw" tvg-id="mjh-channel-9-nsw" tvg-name="Channel 9 (New South Wales)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview" tvg-chno="91",Channel 9 (New South Wales)
+https://i.mjh.nz/.r/channel-9-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-vic" tvg-id="mjh-channel-9-vic" tvg-name="Channel 9 (Victoria)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview" tvg-chno="91",Channel 9 (Victoria)
+https://i.mjh.nz/.r/channel-9-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-qld" tvg-id="mjh-channel-9-qld" tvg-name="Channel 9 (Queensland)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview" tvg-chno="91",Channel 9 (Queensland)
+https://i.mjh.nz/.r/channel-9-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-sa" tvg-id="mjh-channel-9-sa" tvg-name="Channel 9 (South Australia)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview" tvg-chno="91",Channel 9 (South Australia)
+https://i.mjh.nz/.r/channel-9-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-wa" tvg-id="mjh-gem-wa" tvg-name="9Gem (Western Australia)" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" group-title="AU Freeview" tvg-chno="92",9Gem (Western Australia)
+https://i.mjh.nz/.r/gem-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-nsw" tvg-id="mjh-gem-nsw" tvg-name="9Gem (New South Wales)" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" group-title="AU Freeview" tvg-chno="92",9Gem (New South Wales)
+https://i.mjh.nz/.r/gem-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-vic" tvg-id="mjh-gem-vic" tvg-name="9Gem (Victoria)" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" group-title="AU Freeview" tvg-chno="92",9Gem (Victoria)
+https://i.mjh.nz/.r/gem-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-qld" tvg-id="mjh-gem-qld" tvg-name="9Gem (Queensland)" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" group-title="AU Freeview" tvg-chno="92",9Gem (Queensland)
+https://i.mjh.nz/.r/gem-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-sa" tvg-id="mjh-gem-sa" tvg-name="9Gem (South Australia)" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" group-title="AU Freeview" tvg-chno="92",9Gem (South Australia)
+https://i.mjh.nz/.r/gem-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-wa" tvg-id="mjh-go-wa" tvg-name="9Go! (Western Australia)" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" group-title="AU Freeview" tvg-chno="93",9Go! (Western Australia)
+https://i.mjh.nz/.r/go-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-nsw" tvg-id="mjh-go-nsw" tvg-name="9Go! (New South Wales)" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" group-title="AU Freeview" tvg-chno="93",9Go! (New South Wales)
+https://i.mjh.nz/.r/go-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-vic" tvg-id="mjh-go-vic" tvg-name="9Go! (Victoria)" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" group-title="AU Freeview" tvg-chno="93",9Go! (Victoria)
+https://i.mjh.nz/.r/go-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-qld" tvg-id="mjh-go-qld" tvg-name="9Go! (Queensland)" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" group-title="AU Freeview" tvg-chno="93",9Go! (Queensland)
+https://i.mjh.nz/.r/go-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-sa" tvg-id="mjh-go-sa" tvg-name="9Go! (South Australia)" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" group-title="AU Freeview" tvg-chno="93",9Go! (South Australia)
+https://i.mjh.nz/.r/go-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-wa" tvg-id="mjh-life-wa" tvg-name="9Life (Western Australia)" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="AU Freeview" tvg-chno="94",9Life (Western Australia)
+https://i.mjh.nz/.r/life-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-nsw" tvg-id="mjh-life-nsw" tvg-name="9Life (New South Wales)" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="AU Freeview" tvg-chno="94",9Life (New South Wales)
+https://i.mjh.nz/.r/life-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-vic" tvg-id="mjh-life-vic" tvg-name="9Life (Victoria)" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="AU Freeview" tvg-chno="94",9Life (Victoria)
+https://i.mjh.nz/.r/life-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-qld" tvg-id="mjh-life-qld" tvg-name="9Life (Queensland)" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="AU Freeview" tvg-chno="94",9Life (Queensland)
+https://i.mjh.nz/.r/life-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-sa" tvg-id="mjh-life-sa" tvg-name="9Life (South Australia)" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="AU Freeview" tvg-chno="94",9Life (South Australia)
+https://i.mjh.nz/.r/life-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-wa" tvg-id="mjh-rush-wa" tvg-name="9Rush (Western Australia)" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" group-title="AU Freeview" tvg-chno="96",9Rush (Western Australia)
+https://i.mjh.nz/.r/rush-wa.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-nsw" tvg-id="mjh-rush-nsw" tvg-name="9Rush (New South Wales)" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" group-title="AU Freeview" tvg-chno="96",9Rush (New South Wales)
+https://i.mjh.nz/.r/rush-nsw.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-name="9Rush (Victoria)" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" group-title="AU Freeview" tvg-chno="96",9Rush (Victoria)
+https://i.mjh.nz/.r/rush-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-qld" tvg-id="mjh-rush-qld" tvg-name="9Rush (Queensland)" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" group-title="AU Freeview" tvg-chno="96",9Rush (Queensland)
+https://i.mjh.nz/.r/rush-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-sa" tvg-id="mjh-rush-sa" tvg-name="9Rush (South Australia)" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" group-title="AU Freeview" tvg-chno="96",9Rush (South Australia)
+https://i.mjh.nz/.r/rush-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-radio-1" tvg-id="mjh-sbs-sbs-radio-1" tvg-name="SBS Radio 1" tvg-logo="https://image.pr.sbsod.com/084f19c8-f6dc-5124-a06a-ebcaf8ef38c6" group-title="Music" tvg-chno="301",SBS Radio 1
+https://i.mjh.nz/.r/sbs-sbs-radio-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-radio-2" tvg-id="mjh-sbs-sbs-radio-2" tvg-name="SBS Radio 2" tvg-logo="https://image.pr.sbsod.com/7d5749f1-254e-57ca-923d-2b2b1b33821f" group-title="Music" tvg-chno="302",SBS Radio 2
+https://i.mjh.nz/.r/sbs-sbs-radio-2.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-radio-3" tvg-id="mjh-sbs-sbs-radio-3" tvg-name="SBS Radio 3" tvg-logo="https://image.pr.sbsod.com/30724f75-f20c-512c-9108-cda06930de39" group-title="Music" tvg-chno="303",SBS Radio 3
+https://i.mjh.nz/.r/sbs-sbs-radio-3.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-pop-araby" tvg-id="mjh-sbs-sbs-pop-araby" tvg-name="SBS Arabic" tvg-logo="https://image.pr.sbsod.com/37ad5c21-7dc4-55a9-bfab-0e6d1d8ebcb3" group-title="AU Freeview" tvg-chno="304",SBS Arabic
+https://i.mjh.nz/.r/sbs-sbs-pop-araby.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-pop-desi" tvg-id="mjh-sbs-sbs-pop-desi" tvg-name="SBS South Asian" tvg-logo="https://image.pr.sbsod.com/4d5e3445-4705-5d55-81cf-3fc64a3ec2ff" group-title="AU Freeview" tvg-chno="305",SBS South Asian
+https://i.mjh.nz/.r/sbs-sbs-pop-desi.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-chill" tvg-id="mjh-sbs-sbs-chill" tvg-name="SBS Chill" tvg-logo="https://image.pr.sbsod.com/e7673a4d-8596-5b98-8ed8-04ff7038b458" group-title="Music" tvg-chno="306",SBS Chill
+https://i.mjh.nz/.r/sbs-sbs-chill.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-pop-asia" tvg-id="mjh-sbs-sbs-pop-asia" tvg-name="SBS PopAsia" tvg-logo="https://image.pr.sbsod.com/bc85a376-7433-5d0b-9ba8-2b97a744d61b" group-title="Music" tvg-chno="307",SBS PopAsia
+https://i.mjh.nz/.r/sbs-sbs-pop-asia.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-name="24 Hours in A&amp;E" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="AU Freeview",24 Hours in A&E
+https://i.mjh.nz/.r/cas39-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-twentyfoursevengameshows" tvg-id="mjh-10-twentyfoursevengameshows" tvg-name="24/7 Gameshows" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c583accb5c213a54fd36f23a829c5ba4-1401207.png?image-profile=logo" group-title="Series",24/7 Gameshows
+https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-name="48 Hours" tvg-logo="https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo" group-title="AU Freeview",48 Hours
+https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
+
+#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-name="60 Minutes Australia" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="AU Freeview",60 Minutes Australia
+https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-7afl-fast" tvg-id="mjh-7afl-fast" tvg-name="7AFL" tvg-logo="https://i.mjh.nz/.images/auto-7afl-fast-e8fdb6.png" group-title="AU Freeview",7AFL
+https://i.mjh.nz/.r/7afl-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-regional" tvg-id="mjh-7flix-regional" tvg-name="7flix Regional" tvg-logo="https://i.mjh.nz/.images/auto-7flix-regional-c6badc.png" group-title="AU Freeview",7flix Regional
+https://i.mjh.nz/.r/7flix-regional.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-regional" tvg-id="mjh-7mate-regional" tvg-name="7mate Regional" tvg-logo="https://i.mjh.nz/.images/auto-7mate-regional-360d60.png" group-title="AU Freeview",7mate Regional
+https://i.mjh.nz/.r/7mate-regional.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-name="7NEWS Spotlight" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="News",7NEWS Spotlight
+https://i.mjh.nz/.r/cas32-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-7now-fast" tvg-id="mjh-7now-fast" tvg-name="7now" tvg-logo="https://i.mjh.nz/.images/auto-7now-fast-c5b39e.png" group-title="AU Freeview",7now
+https://i.mjh.nz/.r/7now-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-regional" tvg-id="mjh-7two-regional" tvg-name="7two Regional" tvg-logo="https://i.mjh.nz/.images/auto-7two-regional-701123.png" group-title="AU Freeview",7two Regional
+https://i.mjh.nz/.r/7two-regional.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-name="8 Out Of 10 Cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="AU Freeview",8 Out Of 10 Cats
+https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
+
+#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-name="9Crime" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="AU Freeview",9Crime
+https://i.mjh.nz/.r/9crime-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-name="9Mystery&amp;Paranormal" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="AU Freeview",9Mystery&Paranormal
+https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-acountrypractice-fast" tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="AU Freeview",A Country Practice
+https://i.mjh.nz/.r/acountrypractice-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-business" tvg-id="mjh-abc-90-seconds-business" tvg-name="ABC Business in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&amp;cropH=630&amp;cropW=1119&amp;xPos=10&amp;yPos=0&amp;width=862&amp;height=485" group-title="AU Freeview",ABC Business in 90 Seconds
+https://c.mjh.nz/business_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-news" tvg-id="mjh-abc-90-seconds-news" tvg-name="ABC News in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/144a0dacebeb9f616c1fcd637e3b2cf2?impolicy=wcms_crop_resize&amp;cropH=630&amp;cropW=1119&amp;xPos=10&amp;yPos=0&amp;width=862&amp;height=485" group-title="News",ABC News in 90 Seconds
+https://c.mjh.nz/news_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-sport" tvg-id="mjh-abc-90-seconds-sport" tvg-name="ABC Sport in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/646cb8a032c847ec21c3de0de881e4cb?impolicy=wcms_crop_resize&amp;cropH=630&amp;cropW=1119&amp;xPos=10&amp;yPos=0&amp;width=862&amp;height=485" group-title="Sport",ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-abc-90-seconds-weather" tvg-id="mjh-abc-90-seconds-weather" tvg-name="ABC Weather in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/d376e49724862f104d044ff6467f85d8?impolicy=wcms_crop_resize&amp;cropH=630&amp;cropW=1119&amp;xPos=10&amp;yPos=0&amp;width=862&amp;height=485" group-title="AU Freeview",ABC Weather in 90 Seconds
+https://c.mjh.nz/weather_in_90_seconds
+
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-name="Adult Animation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" group-title="Comedy",Adult Animation
+https://i.mjh.nz/.r/10-adultanimation.m3u8
+
+#EXTINF:-1 channel-id="mjh-aircrashinvestigations-fast" tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="AU Freeview",Air Crash Investigations
+https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-allsaints-fast" tvg-id="mjh-allsaints-fast" tvg-name="All Saints" tvg-logo="https://i.mjh.nz/.images/auto-allsaints-fast-ebad23.png" group-title="AU Freeview",All Saints
+https://i.mjh.nz/.r/allsaints-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="Movies",All-Star Cinema
+https://i.mjh.nz/.r/all-starcinema-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-americas-next-top-model" tvg-id="mjh-10-americas-next-top-model" tvg-name="America&#x27;s Next Top Model" tvg-logo="https://10.com.au/ip/s3/2023/06/28/8db83f030cafec640ddec14612d03daa-1246018.png?image-profile=logo" group-title="AU Freeview",America's Next Top Model
+https://i.mjh.nz/.r/10-americas-next-top-model.m3u8
+
+#EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-name="Anglers Paradise" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="AU Freeview",Anglers Paradise
+https://i.mjh.nz/.r/anglersparadise-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-anthonybourdain" tvg-id="mjh-10-anthonybourdain" tvg-name="Anthony Bourdain: Parts Unknown" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="AU Freeview",Anthony Bourdain: Parts Unknown
+https://i.mjh.nz/.r/10-anthonybourdain.m3u8
+
+#EXTINF:-1 channel-id="mjh-art-fast" tvg-id="mjh-art-fast" tvg-name="Antiques Road Trip" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="AU Freeview",Antiques Road Trip
+https://i.mjh.nz/.r/art-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-ausbiz-fast" tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="AU Freeview",ausbiz
+https://i.mjh.nz/.r/ausbiz-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas25-fast" tvg-id="mjh-cas25-fast" tvg-name="Australia&#x27;s Got Talent" tvg-logo="https://i.mjh.nz/.images/auto-cas25-fast-fb94a0.png" group-title="AU Freeview",Australia's Got Talent
+https://i.mjh.nz/.r/cas25-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-australias-next-top-model" tvg-id="mjh-10-australias-next-top-model" tvg-name="Australia&#x27;s Next Top Model" tvg-logo="https://10.com.au/ip/s3/2024/06/03/224a876a47cdb7e1a8b3bb1eeca17565-1318253.png?image-profile=logo" group-title="AU Freeview",Australia's Next Top Model
+https://i.mjh.nz/.r/10-australias-next-top-model.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-antiques-roadshow-247-fast" tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="Series",BBC Antiques Roadshow
+https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-comedy-fast" tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="Comedy",BBC Comedy
+https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="mjh-bbc-food-fast" tvg-name="BBC Food" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="Lifestyle",BBC Food
+https://i.mjh.nz/.r/bbc-food-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-home-garden-fast" tvg-id="mjh-bbc-home-garden-fast" tvg-name="BBC Home &amp; Garden" tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="Lifestyle",BBC Home & Garden
+https://i.mjh.nz/.r/bbc-home-garden-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-news" tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://i.mjh.nz/.images/bbc-news.png" group-title="News",BBC News
+https://i.mjh.nz/.r/bbc-news.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-news-fast" tvg-id="mjh-bbc-news-fast" tvg-name="BBC News" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" group-title="News",BBC News
+https://i.mjh.nz/.r/bbc-news-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-name="BBC Top Gear" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="AU Freeview",BBC Top Gear
+https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-name="Becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="AU Freeview",Becker
+https://i.mjh.nz/.r/10-becker.m3u8
+
+#EXTINF:-1 channel-id="mjh-belowdeckvault-fast" tvg-id="mjh-belowdeckvault-fast" tvg-name="Below Deck Vault" tvg-logo="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png" group-title="AU Freeview",Below Deck Vault
+https://i.mjh.nz/.r/belowdeckvault-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-betterhomesandgardens-fast" tvg-id="mjh-betterhomesandgardens-fast" tvg-name="Better Homes And Gardens" tvg-logo="https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png" group-title="Lifestyle",Better Homes And Gardens
+https://i.mjh.nz/.r/betterhomesandgardens-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-name="Bloomberg TV" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Entertainment",Bloomberg TV
+https://i.mjh.nz/.r/bloomberg-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-name="Blue Heelers" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="AU Freeview",Blue Heelers
+https://i.mjh.nz/.r/blueheelers-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="mjh-bluelight-fast" tvg-name="Blue Light" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="AU Freeview",Blue Light
+https://i.mjh.nz/.r/bluelight-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-name="Bondi Rescue" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="AU Freeview",Bondi Rescue
+https://i.mjh.nz/.r/cas41-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas24-fast" tvg-id="mjh-cas24-fast" tvg-name="Bondi Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="AU Freeview",Bondi Vet
+https://i.mjh.nz/.r/cas24-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-name="Border Security Australia" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="AU Freeview",Border Security Australia
+https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-botchedvault-fast" tvg-id="mjh-botchedvault-fast" tvg-name="Botched VAULT" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="AU Freeview",Botched VAULT
+https://i.mjh.nz/.r/botchedvault-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-gold-coast" tvg-id="mjh-channel-9-gold-coast" tvg-name="Channel 9 (Gold Coast)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview",Channel 9 (Gold Coast)
+https://i.mjh.nz/.r/channel-9-gold-coast.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-newcastle" tvg-id="mjh-channel-9-newcastle" tvg-name="Channel 9 (Newcastle)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview",Channel 9 (Newcastle)
+https://i.mjh.nz/.r/channel-9-newcastle.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-lismore" tvg-id="mjh-channel-9-lismore" tvg-name="Channel 9 (Norther Rivers)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU Freeview",Channel 9 (Norther Rivers)
+https://i.mjh.nz/.r/channel-9-lismore.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas29-fast" tvg-id="mjh-cas29-fast" tvg-name="Cooking &amp; Culture" tvg-logo="https://i.mjh.nz/.images/auto-cas29-fast-69011e.png" group-title="Lifestyle",Cooking & Culture
+https://i.mjh.nz/.r/cas29-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="AU Freeview",COPS
+https://i.mjh.nz/.r/10-cops.m3u8
+
+#EXTINF:-1 channel-id="mjh-cricketgold-fast" tvg-id="mjh-cricketgold-fast" tvg-name="Cricket Gold" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="AU Freeview",Cricket Gold
+https://i.mjh.nz/.r/cricketgold-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-crime-hunters" tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="AU Freeview",Crime Hunters
+https://i.mjh.nz/.r/10-crime-hunters.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-crime-time" tvg-id="mjh-10-crime-time" tvg-name="Crime Time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="AU Freeview",Crime Time
+https://i.mjh.nz/.r/10-crime-time.m3u8
+
+#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="AU Freeview",CSI Crime Scene Investigation
+https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-dance-moms-247-fast" tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="AU Freeview",Dance Moms 24/7
+https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sb03" tvg-id="mjh-sbs-sb03" tvg-name="Dateline" tvg-logo="https://image.pr.sbsod.com/8664060f-f5f6-598d-8d6a-8f7f59bc91c1" group-title="AU Freeview",Dateline
+https://i.mjh.nz/.r/sbs-sb03.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="AU Freeview",Deadly Women
+https://i.mjh.nz/.r/10-deadlywomen.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-demanddrama" tvg-id="mjh-10-demanddrama" tvg-name="Demand Drama" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c74394cd357189d5310b9c1a661279d5-1401182.png?image-profile=logo" group-title="Series",Demand Drama
+https://i.mjh.nz/.r/10-demanddrama.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-name="Diagnosis Murder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="AU Freeview",Diagnosis Murder
+https://i.mjh.nz/.r/10-diagnosismurder.m3u8
+
+#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-name="Drive" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="AU Freeview",Drive
+https://i.mjh.nz/.r/drive-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-embarrassing-bodies" tvg-id="mjh-10-embarrassing-bodies" tvg-name="Embarrassing Bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo" group-title="AU Freeview",Embarrassing Bodies
+https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
+
+#EXTINF:-1 channel-id="mjh-etc-fast" tvg-id="mjh-etc-fast" tvg-name="Escape to the Country" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="AU Freeview",Escape to the Country
+https://i.mjh.nz/.r/etc-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-euronews" tvg-id="mjh-sbs-euronews" tvg-name="euronews" tvg-logo="https://image.pr.sbsod.com/60e599d9-82ed-5eac-b51c-7c23a9bb0c55" group-title="News",euronews
+https://i.mjh.nz/.r/sbs-euronews.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sysdata_s_p_a_fifa_6" tvg-id="mjh-sbs-sysdata_s_p_a_fifa_6" tvg-name="FIFA+" tvg-logo="https://image.pr.sbsod.com/82e2f8e9-238d-599f-84e7-891a54026c9f" group-title="AU Freeview",FIFA+
+https://i.mjh.nz/.r/sbs-sysdata_s_p_a_fifa_6.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-france24" tvg-id="mjh-sbs-france24" tvg-name="France 24" tvg-logo="https://image.pr.sbsod.com/940bda61-531e-5e30-bb1e-69db1cdbb077" group-title="News",France 24
+https://i.mjh.nz/.r/sbs-france24.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-ghosthunters" tvg-id="mjh-10-ghosthunters" tvg-name="Ghost Hunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="AU Freeview",Ghost Hunters
+https://i.mjh.nz/.r/10-ghosthunters.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="mjh-cas21-fast" tvg-name="Ghost Hunters" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="AU Freeview",Ghost Hunters
+https://i.mjh.nz/.r/cas21-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-good-dot" tvg-id="mjh-good-dot" tvg-name="GOOD." tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="Entertainment",GOOD.
+https://c.mjh.nz/good-dot.m3u8
+
+#EXTINF:-1 channel-id="mjh-h2-fast" tvg-id="mjh-h2-fast" tvg-name="H2" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="Documentaries",H2
+https://i.mjh.nz/.r/h2-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-hardcorepawn" tvg-id="mjh-10-hardcorepawn" tvg-name="Hardcore Pawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="AU Freeview",Hardcore Pawn
+https://i.mjh.nz/.r/10-hardcorepawn.m3u8
+
+#EXTINF:-1 channel-id="mjh-hardcorepawn-fast" tvg-id="mjh-hardcorepawn-fast" tvg-name="Hardcore Pawn" tvg-logo="https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png" group-title="AU Freeview",Hardcore Pawn
+https://i.mjh.nz/.r/hardcorepawn-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-name="Haunt TV" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="AU Freeview",Haunt TV
+https://i.mjh.nz/.r/10-haunt-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-haveyoubeenpayingattention" tvg-id="mjh-10-haveyoubeenpayingattention" tvg-name="Have You Been Paying Attention?" tvg-logo="https://10.com.au/ip/s3/2024/12/17/20963e84ceedc64212b60c21c883e5c4-1356262.png?image-profile=logo" group-title="AU Freeview",Have You Been Paying Attention?
+https://i.mjh.nz/.r/10-haveyoubeenpayingattention.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-name="Heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="AU Freeview",Heartland
+https://i.mjh.nz/.r/10-heartland.m3u8
+
+#EXTINF:-1 channel-id="mjh-heki-fast" tvg-id="mjh-heki-fast" tvg-name="Hells Kitchen" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="AU Freeview",Hells Kitchen
+https://i.mjh.nz/.r/heki-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-highwaythruhell" tvg-id="mjh-10-highwaythruhell" tvg-name="Highway Thru Hell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="AU Freeview",Highway Thru Hell
+https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-historyandwarfare" tvg-id="mjh-10-historyandwarfare" tvg-name="History &amp; Warfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="Documentaries",History & Warfare
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-name="Home and Away Classics" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="Lifestyle",Home and Away Classics
+https://i.mjh.nz/.r/cas26-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sb02" tvg-id="mjh-sbs-sb02" tvg-name="Insight" tvg-logo="https://image.pr.sbsod.com/ac68f57a-4655-5dc2-b17e-2ca3505e5e6c" group-title="AU Freeview",Insight
+https://i.mjh.nz/.r/sbs-sb02.m3u8
+
+#EXTINF:-1 channel-id="mjh-judgejudy-fast" tvg-id="mjh-judgejudy-fast" tvg-name="Judge Judy" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="AU Freeview",Judge Judy
+https://i.mjh.nz/.r/judgejudy-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-livgolfreplays-fast" tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="AU Freeview",LIV Golf Replays
+https://i.mjh.nz/.r/livgolfreplays-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-lmn-fast" tvg-id="mjh-lmn-fast" tvg-name="LMN" tvg-logo="https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png" group-title="AU Freeview",LMN
+https://i.mjh.nz/.r/lmn-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-married-at-first-sight-fast" tvg-id="mjh-married-at-first-sight-fast" tvg-name="Married At First Sight" tvg-logo="https://imageresizer.static9.net.au/OCF69HZLp4AWm0cGB8bvgx4U8mQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585176%2Fsquircle_mafs.png" group-title="AU Freeview",Married At First Sight
+https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-name="MasterChef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="AU Freeview",MasterChef
+https://i.mjh.nz/.r/10-masterchef.m3u8
+
+#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="AU Freeview",Medical And Rescue
+https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="AU Freeview",Medical Emergency
+https://i.mjh.nz/.r/10-medical-emergency.m3u8
+
+#EXTINF:-1 channel-id="mjh-mightymachines-fast" tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="AU Freeview",Mighty Machines
+https://i.mjh.nz/.r/mightymachines-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="mjh-cas40-fast" tvg-name="Million Dollar Listing VAULT" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="AU Freeview",Million Dollar Listing VAULT
+https://i.mjh.nz/.r/cas40-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-name="Moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="Movies",Moviesphere
+https://i.mjh.nz/.r/10-moviesphere.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtvgeordieshore" tvg-id="mjh-10-mtvgeordieshore" tvg-name="MTV Geordie Shore" tvg-logo="https://10.com.au/ip/s3/2024/02/19/bf63da35ab6b66b6af03dec697ccaf99-1298650.png?image-profile=logo" group-title="AU Freeview",MTV Geordie Shore
+https://i.mjh.nz/.r/10-mtvgeordieshore.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtv-jersey-shore" tvg-id="mjh-10-mtv-jersey-shore" tvg-name="MTV Jersey Shore" tvg-logo="https://10.com.au/ip/s3/2024/07/22/c0f6c4c235b6c6c3cfbce14921c9296a-1328660.png?image-profile=logo" group-title="AU Freeview",MTV Jersey Shore
+https://i.mjh.nz/.r/10-mtv-jersey-shore.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtv-reality" tvg-id="mjh-10-mtv-reality" tvg-name="MTV Reality" tvg-logo="https://10.com.au/ip/s3/2023/09/25/f51b3f2548dfdb88949cdbd13f037679-1266119.png?image-profile=logo" group-title="Series",MTV Reality
+https://i.mjh.nz/.r/10-mtv-reality.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtvridiculousness" tvg-id="mjh-10-mtvridiculousness" tvg-name="MTV Ridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="AU Freeview",MTV Ridiculousness
+https://i.mjh.nz/.r/10-mtvridiculousness.m3u8
+
+#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-name="Mythbusters" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="AU Freeview",Mythbusters
+https://i.mjh.nz/.r/mythbusters-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-name="NCIS" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="AU Freeview",NCIS
+https://i.mjh.nz/.r/ncis-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-nick-jr" tvg-id="mjh-10-nick-jr" tvg-name="Nick Jr Club" tvg-logo="https://10.com.au/ip/s3/2024/06/06/d14509f218578984e3a6f6f34f0ee12c-1319009.png?image-profile=logo" group-title="Kids",Nick Jr Club
+https://i.mjh.nz/.r/10-nick-jr.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-nickteen" tvg-id="mjh-10-nickteen" tvg-name="NickTeen" tvg-logo="https://10.com.au/ip/s3/2024/06/04/ecc540be818b29d753e036e046028a27-1318595.png?image-profile=logo" group-title="Kids",NickTeen
+https://i.mjh.nz/.r/10-nickteen.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-nicktoons" tvg-id="mjh-10-nicktoons" tvg-name="NickToons" tvg-logo="https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo" group-title="Kids",NickToons
+https://i.mjh.nz/.r/10-nicktoons.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-nicktoons-90s" tvg-id="mjh-10-nicktoons-90s" tvg-name="NickToons 90s" tvg-logo="https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo" group-title="Kids",NickToons 90s
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
+
+#EXTINF:-1 channel-id="mjh-onthecase-fast" tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="AU Freeview",On The Case
+https://i.mjh.nz/.r/onthecase-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="AU Freeview",Outback Truckers
+https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-7faa" tvg-id="mjh-sbs-7faa" tvg-name="Planet Luke Nguyen" tvg-logo="https://image.pr.sbsod.com/6c1ccae0-2ddb-5e67-ae24-a4e42f23b2a0" group-title="AU Freeview",Planet Luke Nguyen
+https://i.mjh.nz/.r/sbs-7faa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-name="Prisoner: Cell Block H" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="AU Freeview",Prisoner: Cell Block H
+https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="mjh-10-projectrunway" tvg-name="Project Runway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="AU Freeview",Project Runway
+https://i.mjh.nz/.r/10-projectrunway.m3u8
+
+#EXTINF:-1 channel-id="mjh-racingwa-fast" tvg-id="mjh-racingwa-fast" tvg-name="Racing WA" tvg-logo="https://i.mjh.nz/.images/auto-racingwa-fast-128220.png" group-title="AU Freeview",Racing WA
+https://i.mjh.nz/.r/racingwa-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-name="Real Emergency" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="AU Freeview",Real Emergency
+https://i.mjh.nz/.r/real-emergency-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-rmc-fast" tvg-id="mjh-rmc-fast" tvg-name="River Monsters" tvg-logo="https://i.mjh.nz/.images/auto-rmc-fast-cd77f2.png" group-title="AU Freeview",River Monsters
+https://i.mjh.nz/.r/rmc-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="Movies",Romance Movies
+https://i.mjh.nz/.r/10-romancemovies.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-name="rookie-blue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="AU Freeview",rookie-blue
+https://i.mjh.nz/.r/10-rookieblue.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sbs-popeuro" tvg-id="mjh-sbs-sbs-popeuro" tvg-name="SBS PopEuro" tvg-logo="https://image.pr.sbsod.com/8438d1c7-64dd-566b-89a2-b7d1e287727a" group-title="AU Freeview",SBS PopEuro
+https://i.mjh.nz/.r/sbs-sbs-popeuro.m3u8
+
+#EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-name="Seinfeld" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="AU Freeview",Seinfeld
+https://i.mjh.nz/.r/seinfeld-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-name="Sharks &amp; Other Predators" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="Documentaries",Sharks & Other Predators
+https://i.mjh.nz/.r/10-documentaryshell.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-shockwave" tvg-id="mjh-10-shockwave" tvg-name="Shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="AU Freeview",Shockwave
+https://i.mjh.nz/.r/10-shockwave.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-name="Sky News Now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="News",Sky News Now
+https://i.mjh.nz/.r/sky-news-now.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-name="Sky Racing #1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="Entertainment",Sky Racing #1
+https://i.mjh.nz/.r/sky-racing-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-name="Sky Racing #2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="Entertainment",Sky Racing #2
+https://i.mjh.nz/.r/sky-racing-2.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-name="Sky Racing - Thoroughbred Central" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="Entertainment",Sky Racing - Thoroughbred Central
+https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
+
+#EXTINF:-1 channel-id="mjh-snowy-mountains" tvg-id="mjh-snowy-mountains" tvg-name="Snowy Mountains Television" tvg-logo="https://i.mjh.nz/.images/smtv.png" group-title="Entertainment",Snowy Mountains Television
+https://i.mjh.nz/.r/snowy-mountains.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-south-park" tvg-id="mjh-10-south-park" tvg-name="South Park" tvg-logo="https://10.com.au/ip/s3/2023/08/03/41a79ba6a28f011b379ea68d41c28ea0-1253591.png?image-profile=logo" group-title="AU Freeview",South Park
+https://i.mjh.nz/.r/10-south-park.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-spongebobsquarepants" tvg-id="mjh-10-spongebobsquarepants" tvg-name="SpongeBob SquarePants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="Kids",SpongeBob SquarePants
+https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
+
+#EXTINF:-1 channel-id="mjh-surveillancecentral-fast" tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="AU Freeview",Surveillance Central
+https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-taste-fast" tvg-id="mjh-taste-fast" tvg-name="Taste" tvg-logo="https://i.mjh.nz/.images/auto-taste-fast-9581ec.png" group-title="AU Freeview",Taste
+https://i.mjh.nz/.r/taste-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-thankgodyourehere" tvg-id="mjh-10-thankgodyourehere" tvg-name="Thank God You&#x27;re Here" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="AU Freeview",Thank God You're Here
+https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
+
+#EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="mjh-the-block-247-fast" tvg-name="The Block 24/7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="AU Freeview",The Block 24/7
+https://i.mjh.nz/.r/the-block-247-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-cheapseats" tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="AU Freeview",The Cheap Seats
+https://i.mjh.nz/.r/10-cheapseats.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-sb01" tvg-id="mjh-sbs-sb01" tvg-name="The Cook Up" tvg-logo="https://image.pr.sbsod.com/82c5d9dc-bda6-5a6b-affa-67f1ba01ff38" group-title="Lifestyle",The Cook Up
+https://i.mjh.nz/.r/sbs-sb01.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-name="The Graham Norton Show" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" group-title="Series",The Graham Norton Show
+https://i.mjh.nz/.r/10-grahamnorton.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-theonlywayisessex" tvg-id="mjh-10-theonlywayisessex" tvg-name="The Only Way Is Essex" tvg-logo="https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo" group-title="AU Freeview",The Only Way Is Essex
+https://i.mjh.nz/.r/10-theonlywayisessex.m3u8
+
+#EXTINF:-1 channel-id="mjh-therealhousewivesvault-fast" tvg-id="mjh-therealhousewivesvault-fast" tvg-name="The Real Housewives VAULT" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="Lifestyle",The Real Housewives VAULT
+https://i.mjh.nz/.r/therealhousewivesvault-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-name="The Twilight Zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="AU Freeview",The Twilight Zone
+https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas33-fast" tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="AU Freeview",The Yorkshire Vet
+https://i.mjh.nz/.r/cas33-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-travelaus-fast" tvg-id="mjh-travelaus-fast" tvg-name="Travel Australia" tvg-logo="https://i.mjh.nz/.images/auto-travelaus-fast-cfd556.png" group-title="Lifestyle",Travel Australia
+https://i.mjh.nz/.r/travelaus-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-truckinghell-fast" tvg-id="mjh-truckinghell-fast" tvg-name="Trucking Hell" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="AU Freeview",Trucking Hell
+https://i.mjh.nz/.r/truckinghell-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-name="True Crime Files" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="AU Freeview",True Crime Files
+https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-name="True Stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="AU Freeview",True Stories
+https://i.mjh.nz/.r/10-true-stories.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="mjh-10-undercoverboss" tvg-name="Undercover Boss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo" group-title="AU Freeview",Undercover Boss
+https://i.mjh.nz/.r/10-undercoverboss.m3u8
+
+#EXTINF:-1 channel-id="mjh-per1_event-fast" tvg-id="mjh-per1_event-fast" tvg-name="WAFL" tvg-logo="https://i.mjh.nz/.images/auto-per1_event-fast-95afe7.png" group-title="AU Freeview",WAFL
+https://i.mjh.nz/.r/per1_event-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-name="Water Rats" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="AU Freeview",Water Rats
+https://i.mjh.nz/.r/waterrats-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-wicked-tuna" tvg-id="mjh-10-wicked-tuna" tvg-name="Wicked Tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="AU Freeview",Wicked Tuna
+https://i.mjh.nz/.r/10-wicked-tuna.m3u8
+
+#EXTINF:-1 channel-id="mjh-wtn-fast" tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="AU Freeview",Wicked Tuna
+https://i.mjh.nz/.r/wtn-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-wildest" tvg-id="mjh-10-wildest" tvg-name="Wildest" tvg-logo="https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo" group-title="AU Freeview",Wildest
+https://i.mjh.nz/.r/10-wildest.m3u8
+
+#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-name="Winners and Losers" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="AU Freeview",Winners and Losers
+https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-world-of-survivor" tvg-id="mjh-10-world-of-survivor" tvg-name="World Of Survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="AU Freeview",World Of Survivor
+https://i.mjh.nz/.r/10-world-of-survivor.m3u8

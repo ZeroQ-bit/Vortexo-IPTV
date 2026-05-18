@@ -1,0 +1,50 @@
+name: Sync upstream and build AU merge
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 4:17 AM Australia/Perth. GitHub schedules are UTC.
+    - cron: "17 20 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-and-build-au-merge
+  cancel-in-progress: false
+
+jobs:
+  sync-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: master
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync upstream
+        run: |
+          git remote add upstream https://github.com/matthuisman/i.mjh.nz.git || git remote set-url upstream https://github.com/matthuisman/i.mjh.nz.git
+          git fetch upstream master
+          git merge --no-edit upstream/master
+
+      - name: Build AU merged outputs
+        run: python3 scripts/build_au_merged.py
+
+      - name: Commit generated outputs
+        run: |
+          git add merged/au scripts/build_au_merged.py .github/workflows/sync-upstream-and-build-au-merge.yml
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "Update AU merged IPTV outputs"
+          fi
+
+      - name: Push changes
+        run: git push origin HEAD:master
