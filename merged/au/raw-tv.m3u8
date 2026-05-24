@@ -1245,6 +1245,9 @@ https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 #EXTINF:-1 channel-id="plutotv-664f1370f78a8500092df452" tvg-id="plutotv-664f1370f78a8500092df452" tvg-name="South Park Rockin&#x27; Out" tvg-logo="https://images.pluto.tv/channels/664f1370f78a8500092df452/colorLogoPNG.png" group-title="Entertainment" tvg-chno="140",South Park Rockin' Out
 https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
 
+#EXTINF:-1 channel-id="roku-dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="roku-dafd06b712a35fbe9935d4c04c2e8b53" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1776110117061_Euronews_Info_HUD_Logo_EN.png" group-title="News" tvg-chno="141",Euronews World
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+
 #EXTINF:-1 channel-id="plutotv-65f060d84e01740008d7421f" tvg-id="plutotv-65f060d84e01740008d7421f" tvg-name="Pluto TV Séries Drama" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Series" tvg-chno="141",Pluto TV Séries Drama
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 
@@ -2109,9 +2112,6 @@ https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 #EXTINF:-1 channel-id="plutotv-67d984c989788ef7f058b084" tvg-id="plutotv-67d984c989788ef7f058b084" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Entertainment" tvg-chno="240",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
 
-#EXTINF:-1 channel-id="roku-c0b79a332cfd90b8eeb6d4a0dcb63674" tvg-id="roku-c0b79a332cfd90b8eeb6d4a0dcb63674" tvg-name="Top Rank Classics" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c0b79a332cfd90b8eeb6d4a0dcb63674/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730998467166_TRClassics_HUD.png" group-title="Sport" tvg-chno="240",Top Rank Classics
-https://jmp2.uk/rok-c0b79a332cfd90b8eeb6d4a0dcb63674.m3u8
-
 #EXTINF:-1 channel-id="plutotv-5cb5cfe5caf83414128f209e" tvg-id="plutotv-5cb5cfe5caf83414128f209e" tvg-name="KultKrimi" tvg-logo="https://images.pluto.tv/channels/5cb5cfe5caf83414128f209e/colorLogoPNG.png" group-title="Entertainment" tvg-chno="241",KultKrimi
 https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
 
@@ -2514,7 +2514,7 @@ https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 #EXTINF:-1 channel-id="plutotv-68ada3edf84960586ad31c7d" tvg-id="plutotv-68ada3edf84960586ad31c7d" tvg-name="Pluto TV Reportagen" tvg-logo="https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/colorLogoPNG_1760078189640.png" group-title="Entertainment" tvg-chno="296",Pluto TV Reportagen
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 
-#EXTINF:-1 channel-id="roku-52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-id="roku-52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-name="LOL Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/52c137ae3cdc50768ad7ea3cdaf0f2f4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1663970275437_LOLnetwork_HUDlogo_centered_260x147.png" group-title="Comedy" tvg-chno="297",LOL Network
+#EXTINF:-1 channel-id="roku-52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-id="roku-52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-name="LOL Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/52c137ae3cdc50768ad7ea3cdaf0f2f4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1779492449719_LOL-HUD_260x147White.png" group-title="Comedy" tvg-chno="297",LOL Network
 https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8
 
 #EXTINF:-1 channel-id="plutotv-65b9268fc798e800085add89" tvg-id="plutotv-65b9268fc798e800085add89" tvg-name="SPIEGEL TV Konflikte" tvg-logo="https://images.pluto.tv/channels/65b9268fc798e800085add89/colorLogoPNG.png" group-title="Entertainment" tvg-chno="297",SPIEGEL TV Konflikte
@@ -7238,9 +7238,6 @@ https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-in3800008cx" tvg-id="samsungtvplus-in3800008cx" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260506T005150SQUARE.png" group-title="Movies" tvg-chno="1005",South Station
 https://jmp2.uk/stvp-IN3800008CX
-
-#EXTINF:-1 channel-id="roku-9fc6583c28985e15b3f05b46f5d77957" tvg-id="roku-9fc6583c28985e15b3f05b46f5d77957" tvg-name="FreeTV Acción" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9fc6583c28985e15b3f05b46f5d77957/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282473878_FREETV_Accion_260x147.png" group-title="Entertainment" tvg-chno="1006",FreeTV Acción
-https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 
 #EXTINF:-1 channel-id="samsungtvplus-in4000625p" tvg-id="samsungtvplus-in4000625p" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260513T005536SQUARE.png" group-title="Kids" tvg-chno="1006",Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
