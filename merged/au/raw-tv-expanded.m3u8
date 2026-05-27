@@ -1854,9 +1854,6 @@ https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
 #EXTINF:-1 channel-id="plutotv-6357f3de3643ba0007bc0b50" tvg-id="plutotv-6357f3de3643ba0007bc0b50" tvg-name="Pluto TV Sport (Denmark)" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="Sport" tvg-chno="201",Pluto TV Sport (Denmark)
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 
-#EXTINF:-1 channel-id="roku-0a1fae7f18a56923219beb5b34b098f3" tvg-id="roku-0a1fae7f18a56923219beb5b34b098f3" tvg-name="Yahoo! Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1fae7f18a56923219beb5b34b098f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563347829_YahooSportsNetwork_HUD_logo_260x147_centre_aligned.png" group-title="Sport" tvg-chno="201",Yahoo! Sports Network
-https://jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8
-
 #EXTINF:-1 channel-id="plutotv-66a10eacfe11e500084c6925" tvg-id="plutotv-66a10eacfe11e500084c6925" tvg-name="Flashpoint (Great Britain)" tvg-logo="https://images.pluto.tv/channels/66a10eacfe11e500084c6925/colorLogoPNG.png" group-title="Series" tvg-chno="202",Flashpoint (Great Britain)
 https://jmp2.uk/plu-66a10eacfe11e500084c6925.m3u8
 
@@ -3245,9 +3242,6 @@ https://jmp2.uk/plu-65b91e530d9ab40008340d8d.m3u8
 
 #EXTINF:-1 channel-id="plutotv-6440f73ee94c380008ccddc8" tvg-id="plutotv-6440f73ee94c380008ccddc8" tvg-name="World of Love Island (Sweden)" tvg-logo="https://images.pluto.tv/channels/6440f73ee94c380008ccddc8/colorLogoPNG.png" group-title="Series" tvg-chno="359",World of Love Island (Sweden)
 https://jmp2.uk/plu-6440f73ee94c380008ccddc8.m3u8
-
-#EXTINF:-1 channel-id="plutotv-64c9260ac0222700089ee62b" tvg-id="plutotv-64c9260ac0222700089ee62b" tvg-name="Family Club (France)" tvg-logo="https://images.pluto.tv/channels/64c9260ac0222700089ee62b/colorLogoPNG.png" group-title="Entertainment" tvg-chno="360",Family Club (France)
-https://jmp2.uk/plu-64c9260ac0222700089ee62b.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5cb6f6f9a461406ffe4022cf" tvg-id="plutotv-5cb6f6f9a461406ffe4022cf" tvg-name="FBI Files (Great Britain)" tvg-logo="https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/colorLogoPNG.png" group-title="Entertainment" tvg-chno="360",FBI Files (Great Britain)
 https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
@@ -6575,9 +6569,6 @@ https://jmp2.uk/plu-66ebf9bc55567d0008de3b29.m3u8
 
 #EXTINF:-1 channel-id="plutotv-5c5c2e9d8002db3c3e0b1c72" tvg-id="plutotv-5c5c2e9d8002db3c3e0b1c72" tvg-name="Homes Under Hammer (Great Britain)" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Lifestyle" tvg-chno="834",Homes Under Hammer (Great Britain)
 https://jmp2.uk/plu-5c5c2e9d8002db3c3e0b1c72.m3u8
-
-#EXTINF:-1 channel-id="roku-52451c26422c45e087820bb0a13a69ab" tvg-id="roku-52451c26422c45e087820bb0a13a69ab" tvg-name="Overtime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/52451c26422c45e087820bb0a13a69ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764174960741_HUD_Logo_Centered_Bill_Watts.png" group-title="Documentaries" tvg-chno="834",Overtime
-https://jmp2.uk/rok-52451c26422c45e087820bb0a13a69ab.m3u8
 
 #EXTINF:-1 channel-id="plutotv-63dac28760bc8f0008a7654b" tvg-id="plutotv-63dac28760bc8f0008a7654b" tvg-name="Realmadrid TV (Brazil)" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Sport" tvg-chno="834",Realmadrid TV (Brazil)
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
@@ -16212,9 +16203,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-682dff1fdfc9c452b8f9842a.m3u8
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-69153808ca8cd63ab14ece0d" tvg-id="plex-697140a85d851f5e69414688-69153808ca8cd63ab14ece0d" tvg-name="Kidoodle TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png" group-title="Kids",Kidoodle TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-69153808ca8cd63ab14ece0d.m3u8
 
-#EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-656fb124cb7e8e6a9bc3f36a" tvg-id="plex-697140a85d851f5e69414688-656fb124cb7e8e6a9bc3f36a" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Kids",Kidz Bop TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-656fb124cb7e8e6a9bc3f36a.m3u8
-
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-69bb1f002028859eafc637e1" tvg-id="plex-697140a85d851f5e69414688-69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png" group-title="Entertainment",Legacy
 https://jmp2.uk/plex-697140a85d851f5e69414688-69bb1f002028859eafc637e1.m3u8
 
@@ -16259,6 +16247,9 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-690cd1fb750b5c46ff424c8e" tvg-id="plex-697140a85d851f5e69414688-690cd1fb750b5c46ff424c8e" tvg-name="Mayday: Air Disaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png" group-title="Entertainment",Mayday: Air Disaster
 https://jmp2.uk/plex-697140a85d851f5e69414688-690cd1fb750b5c46ff424c8e.m3u8
+
+#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="24/7",Medical And Rescue
+https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 
 #EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="AU Freeview",Medical Emergency
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
@@ -16586,9 +16577,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-68645e804051ba2be659baac.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-664292a80e0ec7b4ce5eb28c" tvg-id="plex-697140a85d851f5e69414688-664292a80e0ec7b4ce5eb28c" tvg-name="Startalk TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Entertainment",Startalk TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-664292a80e0ec7b4ce5eb28c.m3u8
-
-#EXTINF:-1 channel-id="mjh-state-of-origin-2026-exclusive-cams-fast" tvg-id="mjh-state-of-origin-2026-exclusive-cams-fast" tvg-name="State of Origin 2026: Exclusive Cams" tvg-logo="https://imageresizer.static9.net.au/a4cxlRa5fLe1Y4AsR8sM5QeIa2Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F05%2F773142%2Fgroup-1000003031.png" group-title="24/7",State of Origin 2026: Exclusive Cams
-https://i.mjh.nz/.r/state-of-origin-2026-exclusive-cams-fast.m3u8
 
 #EXTINF:-1 channel-id="plex-697140a85d851f5e69414688-62fc0150c67d52bddf74cc89" tvg-id="plex-697140a85d851f5e69414688-62fc0150c67d52bddf74cc89" tvg-name="Stingray DJAZZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png" group-title="Entertainment",Stingray DJAZZ
 https://jmp2.uk/plex-697140a85d851f5e69414688-62fc0150c67d52bddf74cc89.m3u8
