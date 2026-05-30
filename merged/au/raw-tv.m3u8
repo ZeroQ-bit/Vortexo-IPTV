@@ -4092,9 +4092,6 @@ https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
 #EXTINF:-1 channel-id="plutotv-62154548a2be360007cb02f0" tvg-id="plutotv-62154548a2be360007cb02f0" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Entertainment" tvg-chno="492",Ice Pilots
 https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
 
-#EXTINF:-1 channel-id="roku-95a0b94ff13a4dc14fea6e9eb47ecf09" tvg-id="roku-95a0b94ff13a4dc14fea6e9eb47ecf09" tvg-name="Tastemade Travel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/95a0b94ff13a4dc14fea6e9eb47ecf09/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402849683_260x147_TastemadeTravel_LogoInfoHUD_Roku.png" group-title="Lifestyle" tvg-chno="492",Tastemade Travel
-https://jmp2.uk/rok-95a0b94ff13a4dc14fea6e9eb47ecf09.m3u8
-
 #EXTINF:-1 channel-id="roku-5a1dec25daac971f191b10e808ec0c5d" tvg-id="roku-5a1dec25daac971f191b10e808ec0c5d" tvg-name="Tastemade Home" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a1dec25daac971f191b10e808ec0c5d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402817287_260x147_TastemadeHome_LogoInfoHUD_Roku.png" group-title="Lifestyle" tvg-chno="493",Tastemade Home
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
 
@@ -10593,7 +10590,7 @@ https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 #EXTINF:-1 channel-id="plutotv-65775d29dfed030008cb3db2" tvg-id="plutotv-65775d29dfed030008cb3db2" tvg-name="Modern Marvels by HISTORY" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3100",Modern Marvels by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
 
-#EXTINF:-1 channel-id="plutotv-64d2b6bf9b414d0008187d83" tvg-id="plutotv-64d2b6bf9b414d0008187d83" tvg-name="Real Disaster Channel" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3105",Real Disaster Channel
+#EXTINF:-1 channel-id="plutotv-64d2b6bf9b414d0008187d83" tvg-id="plutotv-64d2b6bf9b414d0008187d83" tvg-name="Mayday: Air Disaster" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG_1780082857275.png" group-title="Documentaries" tvg-chno="3105",Mayday: Air Disaster
 https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 
 #EXTINF:-1 channel-id="plutotv-563a970aa1a1f7fe7c9daad7" tvg-id="plutotv-563a970aa1a1f7fe7c9daad7" tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3110",Pluto TV Science
